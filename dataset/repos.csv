@@ -1,0 +1,1137 @@
+id,name,topics,n_star,n_fork,languages,%_lang
+r_0,jamesarosen/ruby-tidbits,[],3,1,['l_0'],['100.00']
+r_1,mootools/mootools-core,[],2615,559,"['l_1', 'l_2', 'l_3', 'l_4']","['93.15', '3.19', '2.49', '1.18']"
+r_2,cypher/codebutler,[],3,1,['l_0'],['100.00']
+r_3,directeur/pyapml,[],3,1,[],[]
+r_4,mars888/lisp_web,[],1,0,['l_5'],['100.00']
+r_5,CarlosGabaldon/my_way,[],7,1,['l_0'],['100.00']
+r_6,crafterm/capture,[],6,5,"['l_0', 'l_1']","['62.87', '37.13']"
+r_7,btakita/piston,[],2,0,"['l_0', 'l_1']","['84.04', '15.96']"
+r_8,aphyr/exocora,[],3,1,['l_0'],['100.00']
+r_9,mattetti/merb_paginate,[],7,2,['l_0'],['100.00']
+r_10,xenoterracide/etc,[],3,1,[],[]
+r_11,bcbroom/getfamilliarwithgit,[],2,2,[],[]
+r_12,russ/gosu-tetris,[],5,0,['l_0'],['100.00']
+r_13,auser/frankie,[],4,0,['l_0'],['100.00']
+r_14,mojombo/erlectricity,[],343,56,"['l_0', 'l_6', 'l_7', 'l_4']","['73.84', '15.64', '7.20', '3.32']"
+r_15,bobbyrward/tonal,[],2,2,"['l_8', 'l_4']","['99.47', '0.53']"
+r_16,jesper/knuff,[],3,4,['l_9'],['100.00']
+r_17,vuq/test1,[],2,0,[],[]
+r_18,koke/ruby-git,[],2,0,['l_0'],['100.00']
+r_19,nathansobo/screw-unit,[],185,55,"['l_1', 'l_0']","['71.82', '28.18']"
+r_20,kassoulet/dose2,[],3,4,['l_6'],['100.00']
+r_21,zsx/hotwire,[],3,1,['l_8'],['100.00']
+r_22,jdelStrother/rspec,[],4,0,['l_0'],['100.00']
+r_23,drone-rites/topo,[],4,1,['l_8'],['100.00']
+r_24,ggriffiniii/scripts,[],3,2,['l_10'],['100.00']
+r_25,krobertson/tidbits,[],3,1,['l_6'],['100.00']
+r_26,peimei/actsassubscribeable,[],4,3,['l_0'],['100.00']
+r_27,rmm5t/smhelper-obfuscated-email,[],6,2,['l_0'],['100.00']
+r_28,jerrett/merb_hpreserve,[],3,1,['l_0'],['100.00']
+r_29,halorgium/steer,[],3,1,['l_0'],['100.00']
+r_30,kch/search_object,[],4,1,['l_0'],['100.00']
+r_31,reinh/bin,[],2,0,"['l_0', 'l_10', 'l_4']","['74.45', '20.47', '5.08']"
+r_32,cardmagic/capistrano,[],2,0,['l_0'],['100.00']
+r_33,metaskills/remote_shared_cache,[],7,2,[],[]
+r_34,edspencer/ext-mvc,[],11,0,['l_1'],['100.00']
+r_35,rubyisbeautiful/merb-core,[],4,0,"['l_0', 'l_1']","['98.24', '1.76']"
+r_36,Ramarren/cl-transactional,[],5,2,['l_5'],['100.00']
+r_37,mojombo/yaws,[],42,10,"['l_7', 'l_1', 'l_4', 'l_11', 'l_2', 'l_6', 'l_12', 'l_13', 'l_14', 'l_15']","['87.63', '3.09', '2.77', '2.07', '1.81', '1.30', '0.48', '0.39', '0.35', '0.11']"
+r_38,purcell/mockr,[],2,0,['l_0'],['100.00']
+r_39,tgdavies/calex,[],3,0,[],[]
+r_40,mislav/bluecloth,[],50,8,"['l_0', 'l_10']","['52.26', '47.74']"
+r_41,beppu/learning,[],3,0,"['l_0', 'l_1']","['97.37', '2.63']"
+r_42,lukemelia/rspec-tmbundle,[],3,0,['l_0'],['100.00']
+r_43,cyberfox/jbidwatcher,[],207,78,"['l_13', 'l_0', 'l_16', 'l_2', 'l_17', 'l_18', 'l_4', 'l_11']","['86.36', '12.67', '0.43', '0.17', '0.12', '0.11', '0.09', '0.05']"
+r_44,jdelStrother/rails,[],3,0,"['l_0', 'l_1', 'l_2', 'l_14', 'l_19', 'l_4', 'l_20', 'l_16']","['95.09', '3.62', '0.59', '0.44', '0.16', '0.08', '0.02', '0.01']"
+r_45,aiwilliams/plugit,[],3,2,['l_0'],['100.00']
+r_46,obeattie/django-geo,[],11,2,['l_8'],['100.00']
+r_47,dbgrandi/googlecharts,[],2,0,"['l_0', 'l_1']","['73.86', '26.14']"
+r_48,michaelklishin/storygen,[],12,3,['l_0'],['100.00']
+r_49,fightinjoe/restful-authentication,[],8,1,['l_0'],['100.00']
+r_50,sverrejoh/emacs-torrent,[],8,2,['l_12'],['100.00']
+r_51,infused/dbf,"['ruby', 'dbf', 'dbase', 'xbase', 'database', 'foxpro']",249,85,['l_0'],['100.00']
+r_52,EugZol/strokedb,[],2,1,['l_0'],['100.00']
+r_53,amandasaurus/python-osm,[],15,23,['l_8'],['100.00']
+r_54,mallipeddi/django-yslow,[],16,0,['l_8'],['100.00']
+r_55,TheDragon/blog,[],3,1,"['l_0', 'l_1']","['99.28', '0.72']"
+r_56,kovyrin/smart-proxy,[],11,1,['l_0'],['100.00']
+r_57,kmarsh/tumblr,[],11,5,"['l_0', 'l_2', 'l_14']","['44.30', '30.33', '25.37']"
+r_58,kamu/wang,[],3,0,['l_0'],['100.00']
+r_59,nkallen/jquery-database,[],51,7,[],[]
+r_60,michaelmelanson/erlbot,[],5,4,['l_7'],['100.00']
+r_61,sevenwire/forgery,[],790,104,"['l_0', 'l_2']","['99.53', '0.47']"
+r_62,cardmagic/merb-more,[],3,1,['l_0'],['100.00']
+r_63,michaelmelanson/cweb-tmbundle,[],4,0,[],[]
+r_64,jmckible/stardate,[],5,2,"['l_0', 'l_21', 'l_1', 'l_20', 'l_22', 'l_2', 'l_4', 'l_23']","['76.75', '13.66', '4.45', '2.01', '1.62', '1.42', '0.08', '0.02']"
+r_65,halfbyte/localhost3000-de-wordpress-theme,[],3,0,"['l_3', 'l_1']","['55.23', '44.77']"
+r_66,TekNoLogic/Buffet,[],19,25,['l_24'],['100.00']
+r_67,robbyrussell/year_after_year,[],24,3,['l_0'],['100.00']
+r_68,ryenski/radiant-comments,[],44,34,['l_0'],['100.00']
+r_69,ozamosi/tomboy-blogposter,[],13,4,['l_25'],['100.00']
+r_70,cannikin/alfred,[],3,2,"['l_0', 'l_1']","['86.35', '13.65']"
+r_71,bmizerany/rack-mirror,[],3,1,['l_0'],['100.00']
+r_72,nesquena/active_form,[],25,5,['l_0'],['100.00']
+r_73,taf2/sick,[],5,0,[],[]
+r_74,segfault/mephisto_feedreader,[],9,5,['l_0'],['100.00']
+r_75,technomancy/bus-scheme,[],35,7,"['l_0', 'l_26']","['90.98', '9.02']"
+r_76,rubaidh/timestamped_booleans,[],4,2,['l_0'],['100.00']
+r_77,adamhjk/puppet,[],3,0,"['l_0', 'l_4', 'l_12', 'l_27', 'l_28', 'l_8', 'l_11', 'l_2']","['98.60', '0.59', '0.35', '0.31', '0.11', '0.03', '0.00', '0.00']"
+r_78,jfernandez/submarine,[],4,0,['l_0'],['100.00']
+r_79,technoweenie/can_search,[],93,8,['l_0'],['100.00']
+r_80,bruce/rtex,[],56,25,['l_0'],['100.00']
+r_81,myabc/nbmerb,[],5,0,['l_13'],['100.00']
+r_82,halfbyte/cmdv3,[],3,1,"['l_1', 'l_0']","['78.44', '21.56']"
+r_83,jney/catface,[],10,4,['l_1'],['100.00']
+r_84,signup-disabled/mega,[],3,0,[],[]
+r_85,shayanoh/ismile,[],3,0,['l_18'],['100.00']
+r_86,cv/rolling-with-the-punches,[],18,3,['l_0'],['100.00']
+r_87,tjackiw/uses_connection,[],6,0,['l_0'],['100.00']
+r_88,napcs/docbook5-tmbundle,[],8,1,['l_0'],['100.00']
+r_89,joevandyk/monkeycharger,[],31,0,"['l_0', 'l_1']","['99.63', '0.37']"
+r_90,torstenschuenemann/testintorstengithub,[],3,0,[],[]
+r_91,drnic/newjs,[],21,7,"['l_0', 'l_1']","['74.41', '25.59']"
+r_92,mirven/euler-erlang,[],3,0,['l_7'],['100.00']
+r_93,cyu/beast_style_editor_plugin,[],3,0,['l_0'],['100.00']
+r_94,osteele/sequentially,"['javascript-library', 'functional-programming', 'reactive-programming']",14,3,['l_1'],['100.00']
+r_95,stuarthalloway/phoenix-emacs,[],4,2,['l_12'],['100.00']
+r_96,tadman/involatile,[],3,0,['l_0'],['100.00']
+r_97,halfbyte/amazon_product_lookup,[],6,0,"['l_0', 'l_1']","['67.86', '32.14']"
+r_98,stuarthalloway/relevance-ruby-samples,[],5,4,"['l_0', 'l_1']","['99.51', '0.49']"
+r_99,nimblemachines/muforth,[],110,27,"['l_29', 'l_30', 'l_24', 'l_6', 'l_31', 'l_4', 'l_11', 'l_32', 'l_28']","['87.57', '4.67', '3.80', '2.85', '0.39', '0.34', '0.17', '0.16', '0.04']"
+r_100,kmarsh/foo_tools,[],3,1,['l_0'],['100.00']
+r_101,drnic/magic_metaclass,[],8,2,"['l_0', 'l_1']","['62.26', '37.74']"
+r_102,mperham/tracknowledge,[],4,1,"['l_0', 'l_1']","['64.95', '35.05']"
+r_103,JoshBorke/treesync,[],3,0,['l_24'],['100.00']
+r_104,czottmann/wow-dwarvenizer-trollizer,[],3,1,"['l_24', 'l_4']","['98.87', '1.13']"
+r_105,sunny/edith,[],74,23,"['l_3', 'l_14', 'l_1', 'l_2', 'l_20']","['90.30', '3.60', '3.22', '2.43', '0.45']"
+r_106,planetbeing/libdmg-hfsplus,[],150,100,"['l_6', 'l_33', 'l_9', 'l_11']","['99.07', '0.63', '0.29', '0.01']"
+r_107,rubaidh/namespaced_nested_resources,[],4,1,['l_0'],['100.00']
+r_108,britt/hivedb-blobject,[],6,1,['l_13'],['100.00']
+r_109,timcharper/git-tmbundle,[],285,71,"['l_0', 'l_1']","['98.35', '1.65']"
+r_110,gitter/gitter,[],9,0,[],[]
+r_111,openmoney/openmoney-server,[],7,0,"['l_0', 'l_1']","['99.86', '0.14']"
+r_112,gabrielsaldana/twext,[],5,0,"['l_1', 'l_3']","['65.67', '34.33']"
+r_113,dokai/hexagonit-swfheader,[],5,4,['l_8'],['100.00']
+r_114,infused/retrospect-gds,[],9,2,"['l_3', 'l_1']","['98.91', '1.09']"
+r_115,cardmagic/prototype,[],2,0,"['l_1', 'l_0']","['96.51', '3.49']"
+r_116,CMon/dld,[],2,0,"['l_6', 'l_9', 'l_30', 'l_11', 'l_34', 'l_18', 'l_4']","['44.11', '33.09', '21.50', '0.44', '0.42', '0.40', '0.05']"
+r_117,jchris/appdrop,[],34,3,"['l_0', 'l_8', 'l_1']","['93.66', '6.14', '0.20']"
+r_118,sprinkle-tool/sprinkle,[],1149,148,"['l_0', 'l_2']","['99.98', '0.02']"
+r_119,djanowski/layout,[],7,0,['l_0'],['100.00']
+r_120,dan-manges/unit-record,[],110,4,['l_0'],['100.00']
+r_121,spejman/rails-generator-generator,[],13,2,['l_0'],['100.00']
+r_122,luniki/flexi-templates,[],5,2,"['l_3', 'l_0']","['99.65', '0.35']"
+r_123,TekNoLogic/Ampere,[],8,1,['l_24'],['100.00']
+r_124,dustin/buildwatch,[],12,4,"['l_18', 'l_6', 'l_8']","['51.36', '41.55', '7.09']"
+r_125,andykent/edgy,[],4,1,[],[]
+r_126,bscofield/athena,[],19,1,['l_0'],['100.00']
+r_127,galo2099/golaberto,[],4,3,"['l_0', 'l_1', 'l_14', 'l_10']","['77.90', '19.16', '2.67', '0.27']"
+r_128,rfugger/ripple,[],16,5,['l_8'],['100.00']
+r_129,testk/test2,[],3,1,[],[]
+r_130,rock-core/autobuild,[],12,19,"['l_0', 'l_4']","['99.92', '0.08']"
+r_131,jeremyevans/fixture_dependencies,[],46,26,['l_0'],['100.00']
+r_132,osteele/db_content,"['rails-plugins', 'database']",7,1,['l_0'],['100.00']
+r_133,farktronix/adiumhud,[],8,1,['l_18'],['100.00']
+r_134,jorrel/codes,[],3,0,['l_0'],['100.00']
+r_136,daikini/fityk-ruby,[],3,1,"['l_9', 'l_0']","['84.75', '15.25']"
+r_137,cardmagic/merb-plugins,[],3,0,['l_0'],['100.00']
+r_138,phedders/hobomaster,[],3,1,[],[]
+r_139,jvaughan/harplayout,[],3,1,"['l_1', 'l_10']","['78.52', '21.48']"
+r_140,gruner/radiant_extensions,[],5,1,['l_0'],['100.00']
+r_141,dustin/nextvista,[],2,0,"['l_0', 'l_1']","['99.78', '0.22']"
+r_142,eastmedia/git-tmbundle,[],4,0,"['l_0', 'l_1']","['97.70', '2.30']"
+r_143,mislav/contacts,[],277,68,['l_0'],['100.00']
+r_144,ezmobius/acl_system2,[],56,15,['l_0'],['100.00']
+r_145,daikini/matlab-ruby,[],39,9,"['l_6', 'l_0']","['78.81', '21.19']"
+r_146,kib2/littleblogger,[],3,2,['l_8'],['100.00']
+r_147,FND/tiddlywiki_plugins,[],3,2,[],[]
+r_148,arnie/joshissexy,[],3,2,"['l_10', 'l_14', 'l_1']","['96.04', '3.73', '0.24']"
+r_149,jredville/treetop,[],3,0,['l_0'],['100.00']
+r_150,tmm1/haml,[],3,2,"['l_0', 'l_12']","['95.72', '4.28']"
+r_151,kig/thumbnailer,[],45,5,"['l_0', 'l_10', 'l_1']","['93.46', '5.03', '1.51']"
+r_152,problem/trails-oldschool,[],11,1,"['l_0', 'l_1']","['66.93', '33.07']"
+r_153,croaky/no_cache,[],8,1,['l_0'],['100.00']
+r_154,maborg/weshowthemoney-com,[],3,3,"['l_13', 'l_35']","['85.30', '14.70']"
+r_155,KirinDave/fuzed-old,[],16,4,"['l_0', 'l_7', 'l_6', 'l_1']","['44.84', '44.84', '5.95', '4.37']"
+r_156,pius/tamarind,[],10,2,"['l_0', 'l_1']","['63.58', '36.42']"
+r_157,defunkt/mapreducerb,[],26,5,['l_0'],['100.00']
+r_158,cobrien/merb-core,[],3,1,"['l_0', 'l_1']","['98.01', '1.99']"
+r_159,shantanoo/bhandar,[],2,2,"['l_8', 'l_10']","['72.13', '27.87']"
+r_160,voitto/timeframe,[],2,0,['l_1'],['100.00']
+r_161,adamhjk/iclassify,[],50,10,"['l_0', 'l_1']","['84.64', '15.36']"
+r_162,clarkbw/thunderbird-bugzilla-link-grabber,[],4,1,"['l_1', 'l_4']","['73.31', '26.69']"
+r_163,terrbear/leetwit,[],3,0,['l_0'],['100.00']
+r_164,ocean/musicfinder-gae,[],3,2,['l_8'],['100.00']
+r_165,losinggeneration/buildcross,"['cross-compiler', 'dreamcast', 'z80-assembler', 'gamecube', 'gcc-cross-compiler']",10,1,['l_4'],['100.00']
+r_166,scharris/cxpath,[],5,0,[],[]
+r_167,jmatt/loc,[],3,0,[],[]
+r_168,Grayson/applescripttodictionarywithnutoo,[],5,1,"['l_36', 'l_18']","['96.61', '3.39']"
+r_169,fred/amazon_ruby_tools,[],11,2,['l_0'],['100.00']
+r_170,pauek/arc-sbcl,[],7,1,"['l_5', 'l_37']","['52.48', '47.52']"
+r_171,jruby/activerecord-jdbc-adapter,"['activerecord-jdbc-adapter', 'jruby', 'rails', 'activerecord', 'ar-jdbc']",458,389,"['l_0', 'l_13', 'l_4']","['61.86', '38.12', '0.02']"
+r_172,collectiveidea/tinder,[],256,95,"['l_0', 'l_2', 'l_14']","['87.15', '10.34', '2.52']"
+r_173,lak/puppet-rubygems,[],8,4,['l_27'],['100.00']
+r_174,ELLIOTTCABLE/ystyle,[],4,0,['l_0'],['100.00']
+r_175,patrickt/scraps,[],5,0,"['l_38', 'l_4', 'l_8', 'l_14']","['72.58', '12.16', '8.74', '6.52']"
+r_176,vubiostat/r-yaml,"['r', 'yaml', 'cran']",144,31,"['l_6', 'l_39', 'l_11', 'l_9']","['90.25', '8.41', '0.79', '0.55']"
+r_177,nkallen/rails,[],2,0,"['l_0', 'l_1', 'l_4']","['99.99', '0.00', '0.00']"
+r_178,OwlManAtt/smarty-ys,[],3,1,['l_3'],['100.00']
+r_179,kmarsh/git-wiki,[],8,3,['l_0'],['100.00']
+r_180,joseph/castanaut,[],49,19,"['l_0', 'l_1']","['77.92', '22.08']"
+r_181,jmckible/girder,[],3,1,['l_3'],['100.00']
+r_182,urandom/p2js,[],12,2,['l_10'],['100.00']
+r_183,brucem/ezapprove2,[],5,5,['l_3'],['100.00']
+r_184,pehlert/ruby-tilecache,[],10,4,[],[]
+r_185,positron/molinator,[],2,2,['l_9'],['100.00']
+r_186,cardmagic/dm-core,[],3,29,['l_0'],['100.00']
+r_187,mhennemeyer/prag_dave_testing,[],3,0,"['l_0', 'l_1']","['99.60', '0.40']"
+r_188,dsisnero/sake-git,[],3,0,['l_0'],['100.00']
+r_189,simonjefford/ruby-on-rails-tmbundle,[],5,0,"['l_0', 'l_1']","['82.60', '17.40']"
+r_190,xaviershay/enki-vim,[],3,2,['l_0'],['100.00']
+r_191,wycats/ruby-spidermonkey,[],15,1,"['l_6', 'l_0', 'l_1']","['67.32', '25.24', '7.43']"
+r_192,skyfallsin/openly_sociable,[],7,1,"['l_0', 'l_1']","['66.57', '33.43']"
+r_193,lukehoersten/nonblocking,[],1,1,['l_13'],['100.00']
+r_194,hubris/starmath,[],2,1,['l_9'],['100.00']
+r_195,myabc/merb_global,[],23,6,['l_0'],['100.00']
+r_196,gwynm/merb-plugins,[],3,1,['l_0'],['100.00']
+r_197,michaelee/cs105,[],2,1,['l_0'],['100.00']
+r_198,halorgium/merb-more,[],4,0,['l_0'],['100.00']
+r_199,drone-rites/plus-one,[],4,1,"['l_6', 'l_9']","['82.83', '17.17']"
+r_200,mreid/siroc,[],2,0,['l_13'],['100.00']
+r_201,osteele/functional-javascript,"['javascript-library', 'functional-programming']",381,55,"['l_1', 'l_2', 'l_14', 'l_0']","['81.57', '14.22', '3.19', '1.02']"
+r_202,daqing/aeolus,[],7,0,"['l_3', 'l_1']","['61.49', '38.51']"
+r_203,jmettraux/rufus-rtm,[],20,4,['l_0'],['100.00']
+r_204,jnunemaker/mirrored,[],11,3,['l_0'],['100.00']
+r_205,lukemelia/rspec,[],3,0,['l_0'],['100.00']
+r_206,JackDanger/cached_values,[],9,1,['l_0'],['100.00']
+r_207,matthieu/rose-and-roach,[],3,5,"['l_0', 'l_1']","['82.68', '17.32']"
+r_208,steveh/opml-diff,[],3,2,[],[]
+r_209,ci-reporter/ci_reporter,[],341,112,['l_0'],['100.00']
+r_210,crafterm/guitarzero,[],5,4,"['l_0', 'l_1']","['96.42', '3.58']"
+r_211,grundprinzip/slimtimercli,[],6,3,['l_0'],['100.00']
+r_212,hallison/findlikely,[],4,1,['l_0'],['100.00']
+r_213,jeremyevans/ruby-scgi,[],6,1,['l_0'],['100.00']
+r_214,halfbyte/bookstr,[],4,1,"['l_0', 'l_1']","['99.87', '0.13']"
+r_215,iamjwc/timetracker,[],4,1,"['l_0', 'l_1']","['95.14', '4.86']"
+r_216,voodootikigod/dragdropextra,[],9,4,['l_1'],['100.00']
+r_217,santana/ruby-informix,"['informix', 'ruby', 'ruby-library']",17,7,"['l_40', 'l_0']","['58.64', '41.36']"
+r_218,dileepfrog/dileepfrog,[],3,0,[],[]
+r_219,alx/feevy,[],6,1,"['l_0', 'l_1']","['99.26', '0.74']"
+r_220,hookercookerman/merb_facebooker,[],3,0,['l_0'],['100.00']
+r_221,mattfoster/gnuplot-tmbundle,[],19,9,"['l_0', 'l_41']","['89.36', '10.64']"
+r_222,benjeffery/ilcsoft-py,[],2,1,['l_8'],['100.00']
+r_223,vargthon/alfarrubyo,[],5,4,"['l_0', 'l_1']","['99.47', '0.53']"
+r_224,jacmet/nwtool,[],4,0,"['l_6', 'l_42', 'l_11', 'l_4']","['94.90', '3.82', '0.94', '0.34']"
+r_225,monkpow/vim,[],2,1,"['l_28', 'l_43', 'l_10', 'l_44', 'l_0', 'l_12', 'l_1', 'l_45', 'l_46', 'l_6', 'l_7', 'l_31', 'l_8', 'l_4', 'l_47', 'l_48', 'l_11']","['96.57', '0.63', '0.50', '0.37', '0.35', '0.30', '0.28', '0.27', '0.25', '0.24', '0.11', '0.04', '0.04', '0.03', '0.01', '0.00', '0.00']"
+r_226,cypher/utilitybelt,[],8,2,['l_0'],['100.00']
+r_227,aasm/aasm,"['state-machine', 'ruby', 'aasm', 'transition', 'activerecord', 'mongoid', 'hacktoberfest', 'rails']",4729,623,"['l_0', 'l_20']","['99.79', '0.21']"
+r_228,kaitanie/gittalk,[],3,1,"['l_49', 'l_11']","['93.02', '6.98']"
+r_229,hosh/rails-authorization-plugin,[],3,0,['l_0'],['100.00']
+r_230,uhlenbrock/body_matcher,[],6,4,['l_0'],['100.00']
+r_231,lilyball/six,[],15,12,['l_0'],['100.00']
+r_232,prof3sorul/school,[],3,0,[],[]
+r_233,francois/fogbugz-svnhook,[],3,3,[],[]
+r_234,kjell/flick-fleck,[],3,2,['l_0'],['100.00']
+r_235,quinn/nex3-s-blog-engine,[],4,1,"['l_0', 'l_1']","['96.18', '3.82']"
+r_236,jamis/sqlite-ruby,[],4,0,"['l_0', 'l_6']","['68.56', '31.44']"
+r_237,vic/vico,[],2,1,"['l_1', 'l_0']","['99.32', '0.68']"
+r_238,beastaugh/papertrail,[],8,1,"['l_0', 'l_1']","['82.66', '17.34']"
+r_239,omghax/acts_as_state_machine,[],113,33,['l_0'],['100.00']
+r_240,JackDanger/object_proxy,[],5,1,['l_0'],['100.00']
+r_241,yrashk/rbmodexcl,[],9,1,['l_0'],['100.00']
+r_242,jvoorhis/lucene_query,[],14,6,['l_0'],['100.00']
+r_243,wilkes/expectorant,[],4,0,['l_8'],['100.00']
+r_244,benburkert/schemr,[],6,4,['l_0'],['100.00']
+r_245,Empact/validates_email_veracity_of,[],53,6,['l_0'],['100.00']
+r_246,vertiginous/ambitious-wmi,[],2,0,['l_0'],['100.00']
+r_247,fabien/merb-more,[],3,0,['l_0'],['100.00']
+r_248,schacon/git-wiki,[],14,3,"['l_1', 'l_0']","['88.12', '11.88']"
+r_249,defunkt/currency_converter,[],8,4,['l_18'],['100.00']
+r_250,abradburne/railscoders,[],24,14,"['l_0', 'l_1']","['79.21', '20.79']"
+r_251,psq/waves_rspec,[],4,2,['l_0'],['100.00']
+r_252,hotchpotch/as3rails2u,[],16,1,"['l_50', 'l_1', 'l_0']","['99.04', '0.84', '0.13']"
+r_253,jnewland/xhtmlize,[],10,5,['l_0'],['100.00']
+r_254,patmaddox/with_context,[],6,3,['l_0'],['100.00']
+r_255,sd/notsomate,[],3,0,['l_0'],['100.00']
+r_256,wayneeseguin/sequel,[],12,4,['l_0'],['100.00']
+r_257,kelvie/basket,[],117,57,"['l_9', 'l_4', 'l_6']","['98.30', '1.46', '0.25']"
+r_258,ericallam/hairball,[],4,1,['l_0'],['100.00']
+r_259,quicklywilliam/meditation-timer,[],3,2,['l_18'],['100.00']
+r_260,chriseidhof/the-real-plazes,[],3,0,[],[]
+r_261,kemayo/maphilight,[],472,278,"['l_1', 'l_8']","['50.78', '49.22']"
+r_262,jacques/sms-clickatell,[],2,0,['l_3'],['100.00']
+r_263,gnufied/packet,[],40,11,"['l_0', 'l_6']","['86.56', '13.44']"
+r_264,stueccles/railsdav,[],42,14,['l_0'],['100.00']
+r_265,squeejee/ujs_sort_helper,[],3,1,"['l_1', 'l_0']","['65.33', '34.67']"
+r_266,jnewland/ride_the_fireeagle,[],15,1,['l_0'],['100.00']
+r_267,foca/scriptaculous,[],5,0,"['l_1', 'l_0']","['91.02', '8.98']"
+r_268,atduskgreg/gas,[],6,0,['l_0'],['100.00']
+r_269,CarlosGabaldon/reggie,[],3,1,"['l_0', 'l_4']","['97.13', '2.87']"
+r_270,reubencornel/vision,[],2,0,['l_5'],['100.00']
+r_271,drnic/jsunittest,[],45,13,"['l_1', 'l_0']","['87.82', '12.18']"
+r_272,britt/github-java,[],12,1,['l_13'],['100.00']
+r_273,calavera/oos-with-shoes,[],2,1,['l_0'],['100.00']
+r_274,redinger/validation_reflection,[],299,17,['l_0'],['100.00']
+r_275,collectiveidea/acts_as_money,[],45,16,['l_0'],['100.00']
+r_276,danimal/git-chdiff-scripts,[],4,3,"['l_8', 'l_4']","['99.32', '0.68']"
+r_277,hubris/starengine,[],2,1,['l_4'],['100.00']
+r_278,bruce/stencil,[],5,0,['l_0'],['100.00']
+r_279,delynn/userstamp_sample,[],6,2,"['l_0', 'l_1']","['99.54', '0.46']"
+r_280,jferris/labelled_form,[],4,1,['l_0'],['100.00']
+r_281,kevinclark/god,[],5,0,"['l_0', 'l_6', 'l_1']","['92.13', '4.49', '3.38']"
+r_282,collectiveidea/action_mailer_optional_tls,[],128,27,['l_0'],['100.00']
+r_283,pjhyett/errcount,[],8,11,['l_0'],['100.00']
+r_284,sacado/arc2c,[],32,2,"['l_37', 'l_6']","['86.26', '13.74']"
+r_285,joevandyk/rails,[],3,0,"['l_0', 'l_14', 'l_1']","['98.13', '1.77', '0.10']"
+r_286,gebi/jungerl,[],103,37,"['l_7', 'l_6', 'l_2', 'l_25', 'l_12', 'l_51', 'l_4', 'l_11', 'l_5', 'l_52', 'l_15', 'l_8', 'l_1', 'l_13', 'l_9', 'l_14']","['52.82', '28.04', '8.09', '4.74', '1.80', '0.89', '0.79', '0.71', '0.67', '0.54', '0.53', '0.16', '0.08', '0.05', '0.04', '0.04']"
+r_287,dag/warp,[],4,1,[],[]
+r_288,fabiokung/jetty-rails,[],66,15,"['l_0', 'l_1']","['59.53', '40.47']"
+r_289,akapadia/nymble,[],3,0,"['l_6', 'l_0', 'l_1', 'l_9', 'l_4']","['67.30', '20.61', '7.58', '2.28', '2.24']"
+r_290,rsanheim/brain_buster,[],60,16,"['l_0', 'l_14']","['99.01', '0.99']"
+r_291,praxedis/grandemesa,[],3,0,[],[]
+r_292,hubris/stargraphics,[],2,1,['l_9'],['100.00']
+r_293,yannlugrin/tserver,[],2,0,['l_0'],['100.00']
+r_294,assaf/archive-2005,[],10,0,"['l_0', 'l_1', 'l_3']","['79.54', '11.67', '8.80']"
+r_295,treybean/autofilter,[],3,1,['l_1'],['100.00']
+r_296,bougyman/emash,[],3,0,['l_0'],['100.00']
+r_297,codafoo/signal-wiki,[],7,0,"['l_0', 'l_1']","['72.99', '27.01']"
+r_298,philsmirnov/metajunk,[],2,0,[],[]
+r_299,pilt/stream-server,[],17,6,"['l_9', 'l_8', 'l_6']","['79.81', '18.30', '1.89']"
+r_300,tedkulp/bossogg,[],4,0,"['l_8', 'l_6', 'l_9', 'l_10', 'l_4']","['68.27', '29.37', '1.16', '1.12', '0.08']"
+r_301,Dunkelschorsch/plugboard,[],4,0,['l_9'],['100.00']
+r_302,bikerduweb/or_target_blank,[],3,0,['l_3'],['100.00']
+r_303,lak/puppet-ruby,[],7,5,['l_27'],['100.00']
+r_304,r38y/ck_fu,[],63,5,['l_0'],['100.00']
+r_305,taf2/rb-brill-tagger,[],47,6,"['l_6', 'l_0', 'l_1', 'l_9']","['42.64', '38.18', '12.77', '6.41']"
+r_306,karl/monket-calendar,[],6,3,"['l_3', 'l_1']","['53.33', '46.67']"
+r_307,matthewjcarlson/acts_as_chimp,[],30,2,['l_0'],['100.00']
+r_308,sgala/gajim,[],13,8,"['l_8', 'l_6', 'l_18', 'l_26', 'l_4']","['96.79', '2.50', '0.59', '0.08', '0.04']"
+r_309,phpwax/phpwax,[],13,2,"['l_3', 'l_2']","['98.32', '1.68']"
+r_310,toretore/barby,[],819,164,['l_0'],['100.00']
+r_311,dxoigmn/baffle,[],3,1,['l_0'],['100.00']
+r_312,ruby-git/ruby-git,[],1675,515,"['l_0', 'l_4', 'l_10', 'l_31']","['87.01', '11.81', '1.08', '0.11']"
+r_313,toretore/acts_as_file,[],5,0,['l_0'],['100.00']
+r_314,jezdez/django-mobileadmin,[],117,13,"['l_8', 'l_1']","['71.54', '28.46']"
+r_315,halfbyte/akut-webpage,[],3,1,['l_4'],['100.00']
+r_316,jasondew/learnstat,[],2,2,"['l_0', 'l_1']","['93.29', '6.71']"
+r_317,abossenbroek/caosde,[],4,1,"['l_18', 'l_6']","['78.58', '21.42']"
+r_318,TekNoLogic/Panda,[],22,17,['l_24'],['100.00']
+r_319,drnic/newgem,[],122,22,"['l_0', 'l_1']","['61.76', '38.24']"
+r_320,timburks/nuyaml,[],7,8,"['l_6', 'l_18', 'l_36']","['85.85', '10.08', '4.07']"
+r_321,lifedraft/dhonishow,[],7,2,['l_1'],['100.00']
+r_322,AndrewO/rubycas-client,[],8,3,['l_0'],['100.00']
+r_323,foca/foca.github.io,[],4,0,"['l_14', 'l_2']","['61.84', '38.16']"
+r_324,zimbatm/facts,[],4,0,"['l_0', 'l_6']","['85.83', '14.17']"
+r_325,CodeMonkeySteve/libfinagle,[],3,1,"['l_9', 'l_0', 'l_4']","['99.76', '0.18', '0.06']"
+r_326,usergenic/entrails,[],11,3,['l_0'],['100.00']
+r_327,bfintl/missionsbridge,[],4,1,"['l_0', 'l_1']","['97.47', '2.53']"
+r_328,wayneeseguin/merblogger,[],18,5,"['l_1', 'l_0']","['84.46', '15.54']"
+r_329,jcfischer/restful-authentication,[],3,0,['l_0'],['100.00']
+r_330,gma/god,[],1,1,"['l_0', 'l_6', 'l_1']","['91.92', '4.61', '3.48']"
+r_331,jwhitmire/llor-nu-legacy,[],13,5,"['l_0', 'l_1']","['64.91', '35.09']"
+r_332,technoweenie/active_record_context,[],4,7,['l_0'],['100.00']
+r_333,dustin/py-github,[],162,33,['l_8'],['100.00']
+r_334,TekNoLogic/Engravings,[],9,3,['l_24'],['100.00']
+r_335,arunthampi/activecouch,[],105,7,['l_0'],['100.00']
+r_336,bmaland/file2url,[],4,0,"['l_3', 'l_12', 'l_4']","['99.98', '0.01', '0.01']"
+r_337,ihao/ihao,[],3,1,[],[]
+r_338,mhennemeyer/stepspecr,[],6,3,['l_0'],['100.00']
+r_339,alsemyonov/rotuka-rails-extender,[],3,1,['l_0'],['100.00']
+r_340,sferik/twitter,[],4462,1272,['l_0'],['100.00']
+r_341,jmay/pipeline,[],3,1,"['l_0', 'l_10', 'l_4', 'l_8']","['51.38', '40.92', '4.64', '3.06']"
+r_342,mfb/vozmob,[],13,6,"['l_3', 'l_1', 'l_53', 'l_4', 'l_10', 'l_50']","['81.72', '18.00', '0.22', '0.03', '0.02', '0.01']"
+r_343,Lasanha/dialeteitor,[],4,0,['l_6'],['100.00']
+r_344,mattetti/globalite,[],60,8,['l_0'],['100.00']
+r_345,joshsusser/validates_existence,[],33,7,['l_0'],['100.00']
+r_346,dausech/misc,[],3,0,"['l_54', 'l_8']","['99.91', '0.09']"
+r_347,jmckible/corkboard,[],3,0,[],[]
+r_348,ianwhite/inherit_views,[],30,5,['l_0'],['100.00']
+r_349,adelcambre/rubyurl,[],4,1,"['l_0', 'l_1']","['95.04', '4.96']"
+r_350,mitsuhiko/twig,[],36,3,['l_3'],['100.00']
+r_351,gmallard/submodule-workflows,[],5,0,"['l_4', 'l_2', 'l_14']","['81.82', '12.78', '5.40']"
+r_352,kad3nce/swxruby,[],12,2,['l_0'],['100.00']
+r_353,btakita/screw-unit,[],5,0,['l_1'],['100.00']
+r_354,IceskYsl/1stlog,[],4,1,"['l_1', 'l_0', 'l_4', 'l_3']","['49.96', '42.86', '5.85', '1.32']"
+r_355,bruce/keyword_search,[],99,23,"['l_0', 'l_55']","['97.27', '2.73']"
+r_356,vin/challenge,[],3,1,"['l_38', 'l_8', 'l_4']","['78.63', '21.10', '0.27']"
+r_357,lucashungaro/reserved_attributes,[],5,2,['l_0'],['100.00']
+r_358,kastner/band-named,[],4,1,['l_0'],['100.00']
+r_359,carlosbrando/custom_resource_name,[],24,1,['l_0'],['100.00']
+r_360,ab5tract/chewy,[],3,0,['l_0'],['100.00']
+r_361,binnyva/apiextractor,[],2,0,"['l_3', 'l_1']","['98.86', '1.14']"
+r_362,vaanisharma/teh,[],2,0,"['l_8', 'l_1']","['89.46', '10.54']"
+r_363,bscofield/movielist,[],3,1,"['l_0', 'l_3', 'l_1']","['39.97', '37.22', '22.81']"
+r_364,pieter/gnuplot-textmate-bundle,[],5,1,['l_0'],['100.00']
+r_365,paulsmith/templatemaker,[],61,18,"['l_8', 'l_6']","['55.84', '44.16']"
+r_366,dmarkow/slimtimer4r,[],7,1,['l_0'],['100.00']
+r_367,joshuamiller/flotilla,[],58,9,"['l_1', 'l_0']","['92.58', '7.42']"
+r_368,tekkub/wow-ui-source,[],309,133,"['l_24', 'l_4']","['99.98', '0.02']"
+r_369,alex/django-plugins,[],28,8,['l_8'],['100.00']
+r_370,mikE83/ligafut,[],3,0,"['l_0', 'l_1']","['72.80', '27.20']"
+r_371,cout/ruby-internal,[],56,3,"['l_6', 'l_0', 'l_9', 'l_4']","['93.50', '3.84', '2.64', '0.02']"
+r_372,mikaelvik/tillsammans,[],3,0,"['l_0', 'l_1', 'l_50']","['54.70', '43.68', '1.62']"
+r_373,timburks/nutcl,[],6,2,"['l_18', 'l_36']","['67.14', '32.86']"
+r_374,defunkt/starling,[],72,10,['l_0'],['100.00']
+r_375,dustin/memcached-test,[],21,5,['l_8'],['100.00']
+r_376,cbowns/cpu-history,[],22,7,['l_18'],['100.00']
+r_377,jezdez/virtualmin-moinmoin,[],2,0,['l_10'],['100.00']
+r_378,alexs/salva-old,[],7,4,"['l_0', 'l_1', 'l_10']","['72.93', '26.35', '0.72']"
+r_379,xenoterracide/notes,[],3,1,['l_56'],['100.00']
+r_380,nicksieger/attachment_fu,[],3,0,['l_0'],['100.00']
+r_381,stan/how-to,[],3,2,['l_0'],['100.00']
+r_382,davemerwin/blue-channel,[],41,6,['l_8'],['100.00']
+r_383,kerryb/rspec-example,[],13,2,['l_0'],['100.00']
+r_384,keita/ruby-dvi,[],3,0,['l_0'],['100.00']
+r_385,brennandunn/configurator,[],20,3,['l_0'],['100.00']
+r_386,mattetti/googlecharts,[],700,111,['l_0'],['100.00']
+r_387,sur/auto_tags_rails,[],3,0,[],[]
+r_388,robmckinnon/pottery,[],5,1,['l_0'],['100.00']
+r_389,RyanSpeaking/t-ch-y,[],3,0,[],[]
+r_390,tslocke/hobo,[],243,94,"['l_0', 'l_1', 'l_4', 'l_10']","['86.56', '12.81', '0.32', '0.31']"
+r_391,zmalltalker/dry-report,[],3,1,"['l_0', 'l_1']","['98.59', '1.41']"
+r_392,vic/lispy,[],9,1,"['l_0', 'l_6']","['51.28', '48.72']"
+r_393,jorrel/sp,[],3,0,"['l_0', 'l_1']","['98.98', '1.02']"
+r_394,annalissac/socnet,[],3,0,[],[]
+r_395,hb/claws-mail-sync,[],5,3,['l_6'],['100.00']
+r_396,ask/roleplay,[],5,6,"['l_8', 'l_4']","['99.73', '0.27']"
+r_397,lilyball/decafbland-limechat,[],3,4,[],[]
+r_398,technicalpickles/ambitious-sphinx,[],15,5,['l_0'],['100.00']
+r_399,bisho/wsdl-gen-for-php,[],5,0,[],[]
+r_400,haraldmartin/prototype,[],3,2,"['l_1', 'l_0']","['93.52', '6.48']"
+r_401,saimonmoore/restful_acl,[],3,0,['l_0'],['100.00']
+r_402,farktronix/frontprocesscheckr,[],3,1,"['l_18', 'l_6']","['81.56', '18.44']"
+r_403,schmidt/contextr,"['hacktoberfest', 'ruby']",12,6,"['l_0', 'l_1', 'l_2', 'l_14']","['54.90', '30.89', '11.29', '2.91']"
+r_404,gilpa/gilpa_test,[],3,1,[],[]
+r_405,spohlenz/itunes_link_maker,[],14,2,['l_0'],['100.00']
+r_406,netshade/toys,[],4,2,"['l_9', 'l_0', 'l_4']","['51.26', '40.87', '7.87']"
+r_407,kastner/twitter-bot,[],26,3,['l_0'],['100.00']
+r_408,jeremyf/rspec-custom-matchers,[],8,1,['l_0'],['100.00']
+r_409,aiqbal/acamedia,[],2,1,"['l_0', 'l_1']","['98.71', '1.29']"
+r_410,davemerwin/satchmo,[],12,3,['l_8'],['100.00']
+r_411,Ramarren/png-read,[],25,8,['l_5'],['100.00']
+r_412,newtonapple/rails-development-log-analyzer,[],37,4,['l_0'],['100.00']
+r_413,boof/not-naughty,[],10,1,['l_0'],['100.00']
+r_414,samaaron/book_mdar,[],3,11,['l_0'],['100.00']
+r_415,nickstenning/recurring_event,[],26,1,['l_0'],['100.00']
+r_416,lorenjohnson/restful_workflow,[],2,0,['l_0'],['100.00']
+r_417,haberman/fast-recs-collate,[],10,4,['l_6'],['100.00']
+r_418,rabble/icalico,[],16,2,['l_0'],['100.00']
+r_419,tomtt/emacs-rails,[],65,47,['l_12'],['100.00']
+r_420,egoens/core-blog,[],3,0,[],[]
+r_421,aseever/pci4r,[],2,0,['l_0'],['100.00']
+r_422,brynary/rspec,[],8,2,['l_0'],['100.00']
+r_423,mojombo/chronic,[],3183,459,['l_0'],['100.00']
+r_424,pkordel/oss_analyzer,[],3,0,"['l_0', 'l_1']","['99.78', '0.22']"
+r_425,thoughtbot/when,[],12,1,['l_0'],['100.00']
+r_426,timcharper/railswhere,[],16,1,['l_0'],['100.00']
+r_427,clemency/dots,[],2,0,"['l_12', 'l_9', 'l_28', 'l_6', 'l_4', 'l_13']","['99.57', '0.19', '0.16', '0.05', '0.02', '0.00']"
+r_428,osteele/openlaszlo-json,"['json', 'open-laszlo']",5,2,['l_1'],['100.00']
+r_429,mattetti/ar-backup,[],13,3,['l_0'],['100.00']
+r_430,sprsquish/crypt--xxtea,[],10,4,['l_0'],['100.00']
+r_431,kch/railz_scout,[],5,2,['l_0'],['100.00']
+r_432,fdb/nodebox-cpp,[],10,1,"['l_4', 'l_9', 'l_18', 'l_8']","['49.68', '31.38', '18.79', '0.16']"
+r_433,keita/kanpou-watcher,[],3,0,['l_0'],['100.00']
+r_434,lachlanhardy/piccr,[],3,0,"['l_0', 'l_1']","['99.40', '0.60']"
+r_435,maddox/quicktime_helper,[],5,2,"['l_1', 'l_0']","['76.00', '24.00']"
+r_436,imkite/rspec-rails,[],2,0,['l_0'],['100.00']
+r_437,collectiveidea/graticule,[],300,59,"['l_0', 'l_2', 'l_14']","['90.20', '8.86', '0.95']"
+r_438,Imbrondir/majocontrol,[],3,3,['l_13'],['100.00']
+r_439,rgrove/thoth,[],67,10,"['l_0', 'l_2', 'l_1', 'l_14']","['71.57', '14.53', '7.87', '6.03']"
+r_440,jaehess/powncer,[],3,3,['l_0'],['100.00']
+r_441,dustin/memcached,[],124,5,"['l_6', 'l_10', 'l_57', 'l_58', 'l_4']","['70.88', '25.54', '1.85', '1.00', '0.73']"
+r_442,cjmartin/pvarchive,[],4,1,['l_0'],['100.00']
+r_443,deepakjois/gchartrb,[],103,20,['l_0'],['100.00']
+r_444,mlandauer/earth,[],14,14,"['l_0', 'l_14', 'l_10', 'l_1']","['94.66', '5.05', '0.25', '0.04']"
+r_445,virtuoso/koowaldah,[],10,2,"['l_6', 'l_4']","['99.46', '0.54']"
+r_446,prometheusxx/demokratia,[],3,0,[],[]
+r_447,universal/ownpastie,[],5,0,"['l_0', 'l_1']","['97.25', '2.75']"
+r_448,fightinjoe/mex,[],7,0,"['l_1', 'l_0']","['69.08', '30.92']"
+r_449,wayneeseguin/autozest,[],7,3,['l_0'],['100.00']
+r_450,mattetti/attachment_fu,[],3,0,['l_0'],['100.00']
+r_451,bjeanes/tipi,[],3,0,"['l_0', 'l_18']","['93.86', '6.14']"
+r_452,zpinter/interlock,[],3,1,"['l_0', 'l_1']","['99.73', '0.27']"
+r_453,wfarr/rcirc-notify-el,[],7,3,['l_12'],['100.00']
+r_454,mhartl/insoshi,[],11,2,"['l_0', 'l_1']","['99.94', '0.06']"
+r_455,jlsync/jlsync,[],3,0,"['l_0', 'l_10', 'l_28']","['77.71', '22.07', '0.22']"
+r_456,randomutterings/page_redirect,[],7,1,['l_0'],['100.00']
+r_457,bottlecaplabs/gels,[],6,2,"['l_0', 'l_1']","['73.19', '26.81']"
+r_458,drnic/rubigen,[],75,19,['l_0'],['100.00']
+r_459,dfischer/gruff,[],3,0,['l_0'],['100.00']
+r_460,standout/s3storage,"['s3', 'rails-plugin']",15,0,['l_0'],['100.00']
+r_461,defunkt/barefootexamples,[],6,5,"['l_0', 'l_4']","['71.53', '28.47']"
+r_462,dfischer/transparent-fisch,[],12,0,[],[]
+r_463,Ramarren/cl-symbolic-math,[],8,5,['l_5'],['100.00']
+r_464,asahopkins/ocmanager,[],6,0,"['l_0', 'l_1']","['91.70', '8.30']"
+r_465,pjay/mediabumper,[],6,3,"['l_0', 'l_1']","['83.80', '16.20']"
+r_466,jm/seed,[],9,1,['l_0'],['100.00']
+r_467,ryanb/static_actions,[],39,1,['l_0'],['100.00']
+r_468,infil00p/wifidog---freethenet-client,[],7,6,"['l_6', 'l_4']","['99.38', '0.62']"
+r_469,jmckible/mckible-com,[],5,2,"['l_2', 'l_14', 'l_1']","['91.05', '5.72', '3.23']"
+r_470,drone-rites/satori,[],4,0,['l_9'],['100.00']
+r_471,oliver/tangoclawsextended,[],3,2,['l_10'],['100.00']
+r_472,hank/life,[],18,12,"['l_3', 'l_2', 'l_1', 'l_4', 'l_8', 'l_9', 'l_14', 'l_6', 'l_0', 'l_43', 'l_49', 'l_11', 'l_58', 'l_59', 'l_7', 'l_60', 'l_13', 'l_18', 'l_50', 'l_61', 'l_25', 'l_62', 'l_63', 'l_64', 'l_41', 'l_38']","['33.20', '28.04', '12.05', '10.00', '7.28', '3.41', '1.62', '1.62', '0.86', '0.75', '0.50', '0.18', '0.15', '0.09', '0.07', '0.03', '0.03', '0.02', '0.02', '0.02', '0.02', '0.02', '0.01', '0.00', '0.00', '0.00']"
+r_473,wayneeseguin/merb-core,[],6,0,"['l_0', 'l_1']","['97.21', '2.79']"
+r_474,easytiger/jquoteticker,[],3,3,['l_13'],['100.00']
+r_475,jnewland/github-campfire,[],33,13,['l_0'],['100.00']
+r_476,smtlaissezfaire/emacs-lisp-experiments,[],4,0,['l_12'],['100.00']
+r_477,kig/metadata,[],83,13,"['l_0', 'l_10']","['98.98', '1.02']"
+r_478,dustin/noelani,[],7,1,"['l_0', 'l_1']","['99.69', '0.31']"
+r_479,jamis/net-ssh-gateway,[],22,30,['l_0'],['100.00']
+r_480,kerryb/jquery_spike,[],3,2,"['l_1', 'l_0']","['76.65', '23.35']"
+r_481,jasonm/bricklet-core,[],3,0,[],[]
+r_482,toastdriven/euler,[],3,1,['l_8'],['100.00']
+r_483,halorgium/treetop,[],6,2,['l_0'],['100.00']
+r_484,rowland/fb_adapter,[],25,3,['l_0'],['100.00']
+r_485,pkordel/backgrounder,[],5,0,"['l_0', 'l_1']","['99.28', '0.72']"
+r_486,booch/rails-base,[],10,3,"['l_0', 'l_1']","['99.81', '0.19']"
+r_487,cnk/restful-authentication,[],3,1,['l_0'],['100.00']
+r_488,dramatis/dramatis,[],30,3,"['l_0', 'l_8', 'l_7']","['51.65', '42.26', '6.09']"
+r_489,mudge/python-delicious,[],23,24,['l_8'],['100.00']
+r_490,purcell/gemdocindex,[],3,0,[],[]
+r_491,pyrat/faq_u,[],8,0,['l_0'],['100.00']
+r_492,DrMark/rubyamp-cheatsheet,[],7,0,[],[]
+r_493,rmanalan/restful-authentication,[],3,0,['l_0'],['100.00']
+r_494,engineyard/eycap,[],116,53,['l_0'],['100.00']
+r_495,halfbyte/jslogo,[],5,2,[],[]
+r_496,jedbrown/spectral-petsc,[],5,3,"['l_9', 'l_6', 'l_4']","['73.70', '26.05', '0.24']"
+r_497,jmhodges/rchardet,[],189,57,['l_0'],['100.00']
+r_498,poor666/ruby-on-rails-tmbundle,[],3,0,"['l_0', 'l_1']","['82.60', '17.40']"
+r_499,tnt4brain/samba3-howto-russian,[],4,1,[],[]
+r_500,Norgg/rubynomic,[],5,2,['l_0'],['100.00']
+r_501,patmaddox/string-expand_path,[],3,0,"['l_0', 'l_1']","['61.50', '38.50']"
+r_502,atmos/fitter_happier,[],8,5,['l_0'],['100.00']
+r_503,caius/source-collection,[],2,0,"['l_0', 'l_3']","['78.64', '21.36']"
+r_504,ruphy/skema,[],3,1,"['l_0', 'l_1', 'l_9']","['60.75', '35.41', '3.84']"
+r_505,patmaddox/instance_validations,[],5,2,['l_0'],['100.00']
+r_506,Yves-xx/dss,[],3,1,"['l_9', 'l_10', 'l_6', 'l_18', 'l_1', 'l_4']","['81.75', '10.04', '7.19', '0.49', '0.49', '0.03']"
+r_507,Gregg/barcamporlando-scheduler,[],4,1,"['l_0', 'l_1']","['99.30', '0.70']"
+r_508,gaustin/web-rb,[],6,1,['l_0'],['100.00']
+r_509,lukemelia/gchart,[],2,0,['l_0'],['100.00']
+r_510,lancecarlson/kissgen,[],6,2,['l_0'],['100.00']
+r_511,keita/ruby-weatherhacks,[],3,1,['l_0'],['100.00']
+r_512,be9/brake,[],5,1,"['l_0', 'l_6']","['99.53', '0.47']"
+r_513,relevance/cap_gun,[],117,27,['l_0'],['100.00']
+r_514,jmckible/uncorked,[],3,0,['l_3'],['100.00']
+r_515,mully/redmine_google_calendar,[],26,16,['l_0'],['100.00']
+r_516,ruphy/plasma-theme-tester,[],3,2,['l_9'],['100.00']
+r_517,halorgium/admin_tasks,[],4,2,['l_0'],['100.00']
+r_518,tiegz/shoes-textmate-bundle,[],9,0,[],[]
+r_519,jmhodges/rfeedparser,[],56,14,['l_0'],['100.00']
+r_520,vanpelt/merb-plugins,[],3,1,['l_0'],['100.00']
+r_521,shadowmaru/cd-covers,[],7,1,"['l_0', 'l_1']","['99.74', '0.26']"
+r_522,osteele/collections-js,"['javascript', 'obsolete']",32,3,"['l_1', 'l_0']","['99.48', '0.52']"
+r_523,jeremyevans/simple_ldap_authenticator,[],30,6,['l_0'],['100.00']
+r_524,archaelus/erlirc,[],64,15,"['l_7', 'l_10', 'l_11', 'l_4']","['83.06', '16.02', '0.68', '0.24']"
+r_525,myabc/portfolio-theme,[],3,1,[],[]
+r_526,chilts/libawssum-perl,[],6,2,['l_10'],['100.00']
+r_527,ctran/annotate_models,"['ruby', 'rails', 'activerecord']",4130,562,['l_0'],['100.00']
+r_528,technicalpickles/feedbarn,[],5,2,['l_0'],['100.00']
+r_529,matthanlon/playground,[],2,0,[],[]
+r_530,jnewland/boolean_web_service,[],4,1,['l_0'],['100.00']
+r_531,jnewland/fireeagle,[],39,13,['l_0'],['100.00']
+r_532,gnu-lorien/crack-attack,[],16,7,"['l_9', 'l_6', 'l_4']","['80.00', '19.69', '0.31']"
+r_533,dfischer/fischyfriends,[],43,3,['l_0'],['100.00']
+r_534,jonbro/jonbro_snippets,[],3,0,['l_6'],['100.00']
+r_535,ianwhite/nested_has_many_through,[],143,25,['l_0'],['100.00']
+r_536,cainlevy/semantic-attributes,[],23,9,['l_0'],['100.00']
+r_537,rubaidh/inheritable_routing,[],2,1,['l_0'],['100.00']
+r_538,bronson/--hobostarter,[],5,1,"['l_1', 'l_0']","['77.53', '22.47']"
+r_539,jimweirich/emacs-starter-kit,[],29,4,['l_12'],['100.00']
+r_540,ELLIOTTCABLE/System,[],27,7,"['l_28', 'l_4', 'l_24', 'l_65', 'l_10', 'l_0', 'l_66', 'l_67', 'l_1', 'l_14', 'l_68', 'l_19', 'l_69']","['34.09', '21.09', '16.12', '11.57', '8.81', '2.78', '2.27', '0.98', '0.88', '0.64', '0.42', '0.27', '0.08']"
+r_541,delynn/userstamp,[],191,199,"['l_2', 'l_0', 'l_14']","['65.12', '30.12', '4.77']"
+r_542,dustin/money,[],6,1,"['l_0', 'l_1']","['97.26', '2.74']"
+r_543,jamiew/white-glove-tracking,[],5,2,['l_1'],['100.00']
+r_544,veader/rails,[],3,0,"['l_0', 'l_1']","['98.98', '1.02']"
+r_545,defunkt/fixture_scenarios_builder,[],14,6,['l_0'],['100.00']
+r_546,francois/mor7-google-charts-demo,[],6,2,"['l_0', 'l_1']","['99.08', '0.92']"
+r_547,dharding/rails,[],3,0,"['l_0', 'l_1', 'l_4']","['99.99', '0.00', '0.00']"
+r_548,andrzejkrzywda/attribute_fu,[],3,0,['l_0'],['100.00']
+r_549,ianwhite/rspec-rails,[],4,0,['l_0'],['100.00']
+r_550,gotascii/hurl,[],11,0,['l_0'],['100.00']
+r_551,vaanisharma/musicmania,[],3,0,[],[]
+r_552,mojombo/fixture-scenarios,[],17,16,['l_0'],['100.00']
+r_553,urandom/iwl,[],9,0,"['l_10', 'l_1', 'l_14']","['60.63', '36.08', '3.28']"
+r_554,jcrosby/endpointr,[],21,2,['l_18'],['100.00']
+r_555,mtodd/halcyon,[],63,9,"['l_0', 'l_1']","['99.10', '0.90']"
+r_556,eric/sevenscale-scout-plugins,[],6,0,['l_0'],['100.00']
+r_557,simb/flexrestauth,[],6,0,"['l_1', 'l_0']","['50.83', '49.17']"
+r_558,oliver/wikiorg,[],4,0,"['l_10', 'l_8']","['70.98', '29.02']"
+r_559,mojodna/fireeagle-tutorial,[],8,4,"['l_8', 'l_0']","['93.75', '6.25']"
+r_560,lowlee/tourguide,[],2,0,['l_24'],['100.00']
+r_561,jasonroelofs/rbgccxml,[],33,7,"['l_0', 'l_9']","['91.44', '8.56']"
+r_562,glasswing28/lovd-by-less,[],2,0,"['l_0', 'l_1']","['66.96', '33.04']"
+r_563,pepe/scripts,[],7,2,"['l_8', 'l_28', 'l_4', 'l_0']","['86.73', '10.19', '2.82', '0.26']"
+r_564,zachinglis/magic_enums,[],7,0,['l_0'],['100.00']
+r_565,clempro/grimper,[],3,0,[],[]
+r_566,hornbeck/blerb-core,[],28,5,"['l_0', 'l_1', 'l_3']","['49.87', '49.62', '0.51']"
+r_567,afareg/baby,[],3,0,[],[]
+r_568,sgala/roundup,[],4,3,"['l_8', 'l_1']","['99.81', '0.19']"
+r_569,jugglebird/rails-template,[],2,2,"['l_0', 'l_1']","['99.68', '0.32']"
+r_570,joshknowles/rspec-on-rails-matchers,[],170,39,['l_0'],['100.00']
+r_571,dustin/photoupload,[],8,1,"['l_18', 'l_6']","['69.34', '30.66']"
+r_572,cardmagic/shipping,[],44,21,['l_0'],['100.00']
+r_573,nullstyle/ruby-satisfaction,[],14,5,['l_0'],['100.00']
+r_574,jmckible/foodlab,[],6,4,"['l_0', 'l_1']","['99.82', '0.18']"
+r_575,Ramarren/cl-geometry,[],47,15,['l_5'],['100.00']
+r_576,ezmobius/bmhsearch,[],9,6,"['l_6', 'l_0']","['98.89', '1.11']"
+r_577,alltom/talltom,[],3,0,['l_0'],['100.00']
+r_578,osteele/lzosutils,"['open-laszlo', 'flash', 'library']",4,3,['l_1'],['100.00']
+r_579,dustin/logmerge,[],9,1,"['l_9', 'l_4', 'l_11', 'l_70']","['95.83', '2.32', '1.05', '0.80']"
+r_580,dlee/sequel,[],3,0,['l_0'],['100.00']
+r_581,calvincorreli/redirect_routing,[],34,5,['l_0'],['100.00']
+r_582,halorgium/servitor,[],5,2,['l_0'],['100.00']
+r_583,crossblaim/campfire-theme-for-colloquy,[],28,17,"['l_58', 'l_14', 'l_4']","['65.90', '20.81', '13.29']"
+r_584,SRabbelier/unsignedbyte,[],3,2,"['l_6', 'l_9', 'l_4']","['75.66', '24.32', '0.02']"
+r_585,captproton/railsecommerce,[],3,0,"['l_0', 'l_1']","['99.78', '0.22']"
+r_586,spohlenz/open_application_platform_plugin,[],7,0,['l_0'],['100.00']
+r_587,flogic/object_daddy,[],106,19,['l_0'],['100.00']
+r_588,nkallen/arel,[],266,445,['l_0'],['100.00']
+r_589,sudara/pretty-text,[],7,1,['l_0'],['100.00']
+r_590,collectiveidea/recursable,[],3,1,['l_0'],['100.00']
+r_591,mhw/will_paginate,[],3,0,['l_0'],['100.00']
+r_592,sintaxi/pmpknpi,[],19,5,"['l_1', 'l_0']","['53.63', '46.37']"
+r_593,martinstannard/iridetowork,[],7,4,"['l_0', 'l_14', 'l_1', 'l_10']","['76.53', '18.82', '3.46', '1.19']"
+r_594,cnix/freelancer,[],3,0,"['l_1', 'l_0']","['66.08', '33.92']"
+r_595,jamesgolick/enum_field,[],53,19,['l_0'],['100.00']
+r_596,youpy/autopagerize,[],2,0,['l_1'],['100.00']
+r_597,santana/binpatch,"['openbsd', 'patching']",7,2,['l_11'],['100.00']
+r_598,gregwebs/module-import,[],4,4,['l_0'],['100.00']
+r_599,mig/gedit-themes,[],387,173,['l_4'],['100.00']
+r_600,hopkinsd/webvo,[],3,1,"['l_1', 'l_13', 'l_0', 'l_8', 'l_4']","['56.90', '36.21', '6.75', '0.07', '0.07']"
+r_601,harrisj/activerecord-dbslayer-adapter,[],19,1,"['l_0', 'l_1']","['73.96', '26.04']"
+r_602,Pistos/linistrac,[],9,1,"['l_0', 'l_1']","['86.03', '13.97']"
+r_603,schacon/fireeaglet,[],5,0,[],[]
+r_604,juanger/rorgate,[],4,0,"['l_0', 'l_18']","['98.36', '1.64']"
+r_605,liquidm/preference_fu,[],6,3,['l_0'],['100.00']
+r_606,nex3/jazz,[],8,3,"['l_6', 'l_1', 'l_4']","['84.42', '14.71', '0.87']"
+r_607,duff/rails,[],4,0,"['l_0', 'l_1', 'l_4']","['99.99', '0.00', '0.00']"
+r_608,gimmi/webnotes,[],2,0,"['l_0', 'l_1']","['99.28', '0.72']"
+r_609,nuxlli/odfmobile,[],5,2,"['l_8', 'l_1']","['90.13', '9.87']"
+r_610,jochu/clojure-mode,[],186,13,"['l_12', 'l_71']","['98.83', '1.17']"
+r_611,sbenhaim/bike_contest,[],2,0,"['l_1', 'l_0']","['50.09', '49.91']"
+r_612,jmettraux/ruote-web,[],8,1,"['l_0', 'l_1']","['70.35', '29.65']"
+r_613,kevinclark/ruby-kqueue,[],28,6,['l_0'],['100.00']
+r_614,flyingmachine/palmist,[],17,4,"['l_0', 'l_1']","['98.57', '1.43']"
+r_615,dneighbors/wowarmorytools,[],2,1,['l_0'],['100.00']
+r_616,logan/ircquotes,[],5,0,"['l_1', 'l_8']","['54.34', '45.66']"
+r_617,tobinibot/test-project,[],2,0,[],[]
+r_618,publicdisplay/rubber,[],14,0,['l_0'],['100.00']
+r_619,testapi11/testopensocial,[],3,0,[],[]
+r_620,flavorjones/git-rake,[],33,5,['l_0'],['100.00']
+r_621,pluskid/kidy,[],4,0,"['l_8', 'l_0']","['72.15', '27.85']"
+r_622,nicksieger/webrat,[],3,0,['l_0'],['100.00']
+r_623,marceloguedes/theora-davinci,[],4,1,['l_6'],['100.00']
+r_624,slim/bazdig,[],9,4,"['l_3', 'l_1', 'l_10', 'l_4']","['85.75', '8.92', '5.33', '0.00']"
+r_625,ctrochalakis/django-lanata,[],3,2,"['l_1', 'l_8']","['83.63', '16.37']"
+r_626,paulstansifer/end-of-september,[],3,0,"['l_9', 'l_1', 'l_8', 'l_10', 'l_4']","['66.44', '23.53', '9.07', '0.70', '0.25']"
+r_627,henrik/title_helpers,[],16,2,['l_0'],['100.00']
+r_628,jamiew/rolldabeats-lookup,[],3,1,['l_8'],['100.00']
+r_629,vyache/will_paginate,[],2,1,['l_0'],['100.00']
+r_630,geoffgarside/oniguruma,[],13,4,"['l_6', 'l_0']","['69.89', '30.11']"
+r_631,pdeffendol/spatial_adapter,[],199,97,['l_0'],['100.00']
+r_632,melo/notification-watcher,[],7,4,['l_18'],['100.00']
+r_633,thinkerbot/tap-website,[],2,5,['l_0'],['100.00']
+r_634,defunkt/facebox,[],1933,411,['l_1'],['100.00']
+r_635,defunkt/github-gem,[],1112,212,['l_0'],['100.00']
+r_636,melo/torresmos-tv,[],8,2,[],[]
+r_637,sudara/alonetone,"['platform', 'music', 'non-commercial', 'mp3', 'rails', 'ruby', 'songs']",325,87,"['l_0', 'l_72', 'l_2', 'l_1', 'l_14', 'l_4']","['55.48', '19.37', '15.39', '8.52', '0.95', '0.27']"
+r_638,rubiety/goplay,[],8,0,"['l_0', 'l_1']","['50.61', '49.39']"
+r_639,libin/fliqz4r,[],6,1,[],[]
+r_640,ELLIOTTCABLE/git-blog,[],109,13,"['l_0', 'l_2', 'l_14', 'l_4']","['79.64', '14.43', '5.02', '0.92']"
+r_641,naryga/alm-familyfellowship-com,[],2,2,"['l_1', 'l_3', 'l_10', 'l_4']","['78.39', '21.44', '0.14', '0.02']"
+r_642,caged/lighthouse-api,[],104,33,['l_0'],['100.00']
+r_643,joshuamckenty/contentpackmaker,[],3,2,"['l_1', 'l_4']","['99.65', '0.35']"
+r_644,defunkt/choice,[],176,22,['l_0'],['100.00']
+r_645,nabeken/misc-irssi-scripts,[],4,2,['l_10'],['100.00']
+r_646,kevindamm/ir-toys,[],3,2,[],[]
+r_647,Ramarren/color-gradients,[],7,2,['l_5'],['100.00']
+r_648,ctrochalakis/django-jsonutils,[],17,1,['l_8'],['100.00']
+r_649,ismasan/attachment_fu,[],4,1,['l_0'],['100.00']
+r_650,bmizerany/cheat,[],2,1,['l_0'],['100.00']
+r_651,captproton/mephisto,[],3,0,"['l_0', 'l_1']","['92.40', '7.60']"
+r_652,timothyjoh/nameless_cms,[],6,4,"['l_1', 'l_0']","['94.96', '5.04']"
+r_653,santry/db_console,[],2,2,['l_0'],['100.00']
+r_654,francois/family_budget,[],5,2,"['l_1', 'l_0']","['61.66', '38.34']"
+r_655,pc-m/rmuddy,[],2,0,"['l_0', 'l_4', 'l_6']","['99.84', '0.12', '0.04']"
+r_656,jnicklas/merb-plugins,[],3,1,"['l_0', 'l_1']","['95.20', '4.80']"
+r_657,gdagley/display_flash_helper,[],14,2,['l_0'],['100.00']
+r_658,AndrewO/fast_snippet,[],5,1,['l_0'],['100.00']
+r_659,hadley/profr,[],31,5,['l_39'],['100.00']
+r_660,sco/fakebook,[],38,6,"['l_1', 'l_0']","['95.88', '4.12']"
+r_661,subtleGradient/ruby.tmbundle,[],3,0,['l_0'],['100.00']
+r_662,wizardwerdna/pokerwiz,[],3,2,"['l_0', 'l_1']","['99.87', '0.13']"
+r_663,heracek/36par,[],3,1,"['l_9', 'l_8']","['64.43', '35.57']"
+r_664,arunthampi/can_has_cached,[],4,0,"['l_0', 'l_1']","['60.97', '39.03']"
+r_665,gabriel/capitate,[],78,8,"['l_0', 'l_1', 'l_4']","['84.21', '15.66', '0.13']"
+r_666,Beladona/wowcompares,[],2,1,['l_24'],['100.00']
+r_667,TekNoLogic/Blipstick,[],7,3,['l_24'],['100.00']
+r_668,xrg/asterisk-xrg,[],4,0,"['l_6', 'l_9', 'l_4', 'l_10', 'l_28', 'l_1', 'l_73', 'l_3', 'l_8', 'l_48', 'l_14', 'l_30']","['97.91', '1.59', '0.24', '0.14', '0.05', '0.03', '0.02', '0.01', '0.01', '0.00', '0.00', '0.00']"
+r_669,typester/clon,[],2,1,['l_10'],['100.00']
+r_670,moustaki/flatscrap,[],6,6,['l_8'],['100.00']
+r_671,DocSavage/rails-authorization-plugin,[],242,44,['l_0'],['100.00']
+r_672,jxdm-dmoreau/tan_update,[],2,0,['l_10'],['100.00']
+r_673,pcapriotti/github-trac,[],19,34,['l_8'],['100.00']
+r_674,maddox/bracket_busters,[],3,2,"['l_1', 'l_0']","['78.66', '21.34']"
+r_675,technoweenie/model_stubbing,[],55,8,['l_0'],['100.00']
+r_676,psq/mephisto-haml-templates-plugin,[],7,7,['l_0'],['100.00']
+r_677,kwatch/rubinius,[],3,1,"['l_0', 'l_6', 'l_4', 'l_49', 'l_30', 'l_74', 'l_15', 'l_9', 'l_10', 'l_2', 'l_11', 'l_39', 'l_55', 'l_75', 'l_8', 'l_26', 'l_18', 'l_56']","['49.48', '36.31', '6.56', '1.84', '1.48', '1.05', '0.80', '0.79', '0.71', '0.46', '0.25', '0.19', '0.06', '0.01', '0.00', '0.00', '0.00', '0.00']"
+r_678,maddox/freelancer,[],19,9,"['l_1', 'l_0']","['66.08', '33.92']"
+r_679,ELLIOTTCABLE/ruby-svg,[],11,3,['l_0'],['100.00']
+r_680,wesabe/puppet-apache2,[],22,13,"['l_2', 'l_27', 'l_76']","['83.35', '15.82', '0.83']"
+r_681,vanpelt/jsawesome,[],68,7,"['l_1', 'l_0']","['92.90', '7.10']"
+r_682,jwillebrands/git,[],3,0,['l_24'],['100.00']
+r_683,LeonB/jruby_gst,[],2,1,['l_0'],['100.00']
+r_684,KeithHanson/rmuddy,[],4,7,"['l_0', 'l_4', 'l_6']","['99.84', '0.12', '0.04']"
+r_685,yfactorial/gtdtracks,[],3,2,"['l_0', 'l_1']","['50.52', '49.48']"
+r_686,mbleigh/ruby-github,[],59,10,['l_0'],['100.00']
+r_687,medwards/free-library-on-rails,[],13,5,"['l_0', 'l_2', 'l_1', 'l_14', 'l_10']","['71.92', '19.02', '5.23', '3.58', '0.25']"
+r_688,seaofclouds/good-browser-bad-browser,[],6,2,"['l_0', 'l_1']","['76.96', '23.04']"
+r_689,trms/fixmpeg,[],2,0,['l_25'],['100.00']
+r_690,abhay/calais,[],134,51,['l_0'],['100.00']
+r_691,mattetti/will_paginate,[],4,1,['l_0'],['100.00']
+r_692,tobi/locking,[],14,2,['l_0'],['100.00']
+r_693,tobi/cacheable,[],21,24,['l_0'],['100.00']
+r_694,dustin/cache_fu,[],4,0,['l_0'],['100.00']
+r_695,langalex/dead_simple_reports,[],15,0,['l_0'],['100.00']
+r_696,dyoder/pages,[],10,5,"['l_1', 'l_0']","['60.77', '39.23']"
+r_697,cstoner/ergo,[],5,1,['l_77'],['100.00']
+r_698,ejdraper/merb-manage,[],29,4,[],[]
+r_699,ynd/clisp-branch--ynd-devel,[],4,2,"['l_5', 'l_6', 'l_78', 'l_4', 'l_9', 'l_12', 'l_28', 'l_10', 'l_0']","['64.13', '29.03', '3.36', '2.32', '0.69', '0.35', '0.06', '0.05', '0.00']"
+r_700,nklein/com-nklein-util-general,[],2,0,['l_5'],['100.00']
+r_701,beastaugh/tarski-utilities,[],4,3,['l_0'],['100.00']
+r_702,pyrat/ruby-on-rails-tmbundle,[],2,0,"['l_0', 'l_1']","['82.60', '17.40']"
+r_703,dsisnero/emacs-rails,[],3,4,['l_12'],['100.00']
+r_704,xaviershay/lesstile,[],15,3,['l_0'],['100.00']
+r_705,jiku/bks,[],2,0,"['l_0', 'l_1']","['99.46', '0.54']"
+r_706,farktronix/gittools,[],11,4,['l_8'],['100.00']
+r_707,ciaran/tm-completion,[],44,6,['l_0'],['100.00']
+r_708,tsgates/git-emacs,[],194,51,"['l_12', 'l_11']","['99.47', '0.53']"
+r_709,macournoyer/thin,"['thin', 'ruby', 'web-server', 'server', 'rails', 'rack']",2215,346,"['l_0', 'l_6', 'l_2', 'l_79', 'l_14', 'l_4', 'l_1']","['76.78', '13.70', '6.38', '1.90', '0.72', '0.47', '0.05']"
+r_710,TwP/bitwise,[],7,0,['l_0'],['100.00']
+r_711,bmizerany/attrubates,[],3,1,['l_0'],['100.00']
+r_712,joshuamckenty/elderbrowser,[],5,3,"['l_14', 'l_1', 'l_4']","['96.58', '2.59', '0.84']"
+r_713,joshuabates/acts_as_url_param,[],2,0,['l_0'],['100.00']
+r_714,mza/mofo,[],3,0,"['l_1', 'l_0']","['72.66', '27.34']"
+r_715,mephistorb/mephisto,[],259,111,"['l_0', 'l_1']","['92.93', '7.07']"
+r_716,henrik/git-tmbundle,[],2,0,"['l_0', 'l_1']","['98.35', '1.65']"
+r_717,mattetti/globalite-example,[],11,1,"['l_0', 'l_1']","['99.51', '0.49']"
+r_718,sr/tasks,[],7,3,['l_0'],['100.00']
+r_719,giom/merb-plugins,[],2,0,['l_0'],['100.00']
+r_720,jchris/rest-client,[],4,0,['l_0'],['100.00']
+r_721,cv/io-collocation,[],5,0,['l_80'],['100.00']
+r_722,aogail/platform,[],2,0,['l_0'],['100.00']
+r_723,mehulshah/vanilla-rb,[],3,0,"['l_0', 'l_1']","['98.57', '1.43']"
+r_724,langalex/forms-fu,[],7,0,['l_0'],['100.00']
+r_725,gwynm/mailtrap,[],13,2,['l_0'],['100.00']
+r_726,fleadope/dm-core,[],3,0,"['l_0', 'l_4']","['99.71', '0.29']"
+r_727,lydgate/git-todo-py,[],20,7,['l_8'],['100.00']
+r_728,halfbyte/minitowel,[],4,1,"['l_1', 'l_0']","['85.44', '14.56']"
+r_729,matthiask/swisdk2,[],5,5,"['l_3', 'l_81', 'l_1', 'l_58', 'l_4']","['98.09', '1.22', '0.54', '0.09', '0.06']"
+r_730,jesper/ilineedit,[],3,1,['l_9'],['100.00']
+r_731,ayn/acts-as-readable,[],2,1,['l_0'],['100.00']
+r_732,jamis/net-ssh-multi,[],43,22,['l_0'],['100.00']
+r_733,schlu/simpltryjs,[],3,1,"['l_1', 'l_0']","['96.03', '3.97']"
+r_734,rincewind/nu,[],3,1,"['l_18', 'l_36', 'l_6', 'l_12', 'l_30', 'l_2', 'l_0', 'l_4', 'l_11', 'l_9']","['57.09', '18.31', '15.11', '3.12', '3.01', '1.69', '0.99', '0.45', '0.15', '0.09']"
+r_735,eventualbuddha/sake-git,[],15,5,['l_0'],['100.00']
+r_736,insomniapps/crushinator,[],4,0,['l_0'],['100.00']
+r_737,nelstrom/elastosass,[],3,1,"['l_14', 'l_2', 'l_0']","['56.86', '32.54', '10.60']"
+r_738,llimllib/pymag-trees,"['python', 'trees', 'graphics']",171,34,"['l_8', 'l_2']","['67.17', '32.83']"
+r_739,lmarlow/gemedit,[],106,9,['l_0'],['100.00']
+r_740,atog/twingle,[],4,0,['l_0'],['100.00']
+r_741,dchelimsky/rspec,[],1744,183,"['l_0', 'l_2', 'l_82']","['76.44', '18.29', '5.26']"
+r_742,signup-disabled/small,[],4,1,[],[]
+r_743,schacon/munger,[],82,20,['l_0'],['100.00']
+r_744,jeremyevans/ape_tag_libs,[],12,6,"['l_6', 'l_8', 'l_24', 'l_0', 'l_7', 'l_71', 'l_38', 'l_10', 'l_80', 'l_31', 'l_42', 'l_29', 'l_11', 'l_4', 'l_47']","['23.09', '13.28', '11.10', '11.07', '9.68', '8.73', '7.02', '6.97', '4.72', '2.89', '0.52', '0.51', '0.38', '0.04', '0.02']"
+r_745,victor/mephisto,[],3,0,"['l_0', 'l_1']","['93.00', '7.00']"
+r_746,ericstewart/fixture-scenarios,[],2,0,['l_0'],['100.00']
+r_747,foca/rdie,[],5,0,['l_0'],['100.00']
+r_748,mmower/platform,[],7,6,['l_0'],['100.00']
+r_749,tacvbo/yacleaner,[],3,3,[],[]
+r_750,corasaurus-hex/limechat-grayzone,[],5,1,['l_14'],['100.00']
+r_751,defunkt/rtimeout,[],6,4,['l_0'],['100.00']
+r_752,saimonmoore/backgroundjob,[],8,4,['l_0'],['100.00']
+r_753,kbingman/bkr,[],5,1,"['l_1', 'l_0']","['85.15', '14.85']"
+r_754,shirkevich/ultimate-beast,[],18,3,"['l_0', 'l_1']","['92.11', '7.89']"
+r_755,fightinjoe/fightinjoe-merb-blog,[],6,2,"['l_0', 'l_1']","['52.80', '47.20']"
+r_756,kumpera/dataflow,[],9,3,"['l_25', 'l_4']","['99.26', '0.74']"
+r_757,gareth/ruby-freebase,[],2,0,['l_0'],['100.00']
+r_758,jim/gizmos,[],8,1,['l_1'],['100.00']
+r_759,daikini/kato,[],6,0,"['l_0', 'l_1']","['66.64', '33.36']"
+r_760,mackstann/whimsy,[],61,12,"['l_8', 'l_4']","['98.98', '1.02']"
+r_761,webmat/try_require,[],2,0,['l_0'],['100.00']
+r_762,steveh/flight-planner,[],3,1,['l_0'],['100.00']
+r_763,liquidz/gauche,[],4,0,"['l_26', 'l_4']","['99.89', '0.11']"
+r_764,HusseinMorsy/railsbuch_theme,"['rails', 'book', 'learning']",4,1,[],[]
+r_765,psq/matzbot,[],3,0,['l_0'],['100.00']
+r_766,seven1m/onebody,"['ruby', 'ruby-on-rails', 'mysql', 'churches', 'social-network']",1404,297,"['l_0', 'l_21', 'l_14', 'l_2', 'l_1', 'l_19', 'l_72', 'l_4']","['69.32', '15.98', '6.88', '2.29', '1.90', '1.68', '1.37', '0.58']"
+r_767,maddox/iphone2itunes,[],2,0,"['l_1', 'l_3']","['85.22', '14.78']"
+r_768,PhilGeek/raz,[],3,3,"['l_49', 'l_48', 'l_4']","['96.36', '3.14', '0.50']"
+r_769,adelcambre/textilizefu,[],5,5,['l_0'],['100.00']
+r_770,russ/rbwebkitgtk,[],7,1,"['l_6', 'l_0', 'l_4']","['56.34', '42.99', '0.68']"
+r_771,drnic/pastie-packer,[],12,3,['l_0'],['100.00']
+r_772,shibu/pyspec,[],6,3,['l_8'],['100.00']
+r_773,pdsphil/ruby-merlin,[],2,2,['l_0'],['100.00']
+r_774,anaisbetts/yikes,[],4,3,"['l_6', 'l_9', 'l_30', 'l_4', 'l_15', 'l_10', 'l_1', 'l_11', 'l_0', 'l_2', 'l_58', 'l_18', 'l_83', 'l_84', 'l_14']","['79.99', '15.23', '1.57', '0.77', '0.57', '0.48', '0.41', '0.38', '0.19', '0.17', '0.09', '0.07', '0.05', '0.02', '0.01']"
+r_775,heycarsten/email-veracity,[],131,12,['l_0'],['100.00']
+r_776,zengjie/zengjie.github.com,[],2,0,[],[]
+r_777,collectiveidea/random_finders,[],15,5,['l_0'],['100.00']
+r_778,hubris/starutils,[],2,1,['l_9'],['100.00']
+r_779,santry/flickrtags,[],7,7,['l_0'],['100.00']
+r_780,dxoigmn/achilles,[],8,2,"['l_0', 'l_1']","['90.52', '9.48']"
+r_781,lukemelia/facebox,[],4,2,"['l_1', 'l_4']","['95.19', '4.81']"
+r_782,TekNoLogic/TourGuide,[],16,25,['l_24'],['100.00']
+r_783,bricooke/assistance,[],2,2,['l_0'],['100.00']
+r_784,KirinDave/leetchat,[],3,4,[],[]
+r_785,wycats/textmate,[],159,18,['l_0'],['100.00']
+r_786,kentaro/emacs-ditz,[],37,4,['l_12'],['100.00']
+r_787,topfunky/gruff,[],1295,241,"['l_0', 'l_4', 'l_20']","['99.14', '0.65', '0.21']"
+r_788,queso/signal-wiki,[],72,14,"['l_0', 'l_1']","['72.52', '27.48']"
+r_789,pezra/rspec-mode,[],248,110,"['l_12', 'l_85', 'l_11']","['91.63', '6.77', '1.60']"
+r_790,pat/riddle,"['ruby', 'sphinx', 'search', 'full-text-search']",136,67,"['l_0', 'l_4']","['98.50', '1.50']"
+r_791,osteele/openlaszlo_plugin,"['rails-plugins', 'open-laszlo', 'rails']",4,2,"['l_1', 'l_0']","['54.09', '45.91']"
+r_792,JackDanger/sweet_assets,[],11,2,['l_0'],['100.00']
+r_793,kastner/audio-sinner,[],4,0,"['l_0', 'l_1']","['81.93', '18.07']"
+r_794,cristiantacchi/arista-tres,[],3,0,[],[]
+r_795,slim/cgit,[],5,2,['l_3'],['100.00']
+r_796,iamruinous/twittersign,[],8,1,"['l_0', 'l_1']","['99.47', '0.53']"
+r_797,drone-rites/reputator,[],4,1,['l_37'],['100.00']
+r_798,kad3nce/altered_beast,[],4,0,"['l_0', 'l_1']","['89.25', '10.75']"
+r_799,knzconnor/range_set,[],3,0,['l_0'],['100.00']
+r_800,mrschyte/template-sort-library,[],2,1,['l_9'],['100.00']
+r_801,kogakure/moinmoin-theme-kaijin,"['moinmoin', 'theme']",9,1,"['l_8', 'l_14']","['80.24', '19.76']"
+r_802,cardmagic/classifier,[],653,131,['l_0'],['100.00']
+r_803,boone/restful-authentication,[],2,0,['l_0'],['100.00']
+r_804,mde/fleegix-js-javascript-toolkit,[],15,1,"['l_1', 'l_0', 'l_3']","['99.40', '0.55', '0.05']"
+r_805,rsl/acts_as_snook,[],105,9,['l_0'],['100.00']
+r_806,robertknight/konsole,[],58,24,"['l_9', 'l_6', 'l_10', 'l_4']","['87.45', '9.55', '2.74', '0.25']"
+r_807,mbleigh/mash,[],61,7,['l_0'],['100.00']
+r_808,nmeans/sinatra,[],3,0,['l_0'],['100.00']
+r_809,davemerwin/960-grid-system,[],9,0,[],[]
+r_810,khangtoh/feather,[],3,0,"['l_0', 'l_1']","['92.20', '7.80']"
+r_811,bartcortooms/ikhebhonger,[],4,2,"['l_1', 'l_0']","['71.39', '28.61']"
+r_812,nathansobo/hyperarchy,[],24,7,"['l_0', 'l_19']","['77.82', '22.18']"
+r_813,acgourley/watchdog,[],4,0,"['l_8', 'l_1']","['97.08', '2.92']"
+r_814,minesh/projects,[],3,0,"['l_6', 'l_10', 'l_30', 'l_8', 'l_9', 'l_4', 'l_18']","['77.66', '17.31', '2.85', '1.28', '0.64', '0.24', '0.02']"
+r_815,ianwhite/garlic,[],34,2,"['l_0', 'l_4']","['97.06', '2.94']"
+r_816,dougal/daemon_generator,[],96,25,['l_0'],['100.00']
+r_817,qzio/tinly,[],6,3,"['l_3', 'l_1']","['99.69', '0.31']"
+r_818,blueguru/cmsmadesimple-2-0,[],3,0,[],[]
+r_819,kitplummer/xmpp4rails,[],17,1,['l_0'],['100.00']
+r_820,cyu/beast_iphone_plugin,[],12,1,"['l_1', 'l_0']","['79.18', '20.82']"
+r_821,bscofield/sandstone,[],5,10,['l_0'],['100.00']
+r_822,isaac/markaby,[],3,1,['l_0'],['100.00']
+r_823,potatosalad/rak,[],2,1,"['l_0', 'l_8']","['99.74', '0.26']"
+r_824,bumi/tokenizer,[],17,3,['l_1'],['100.00']
+r_825,jchris/fug-this-,[],6,1,"['l_1', 'l_8']","['95.12', '4.88']"
+r_826,freireag/bambooine,[],1,1,"['l_0', 'l_1']","['99.79', '0.21']"
+r_827,purcell/rails-runit,[],43,5,"['l_4', 'l_0']","['98.92', '1.08']"
+r_828,macournoyer/thin-turbo,[],47,1,"['l_6', 'l_0']","['91.66', '8.34']"
+r_829,jgornick/proto,[],3,0,"['l_10', 'l_1', 'l_14', 'l_3', 'l_0', 'l_4']","['81.34', '10.97', '5.44', '2.03', '0.20', '0.02']"
+r_830,tra/spawnling,[],397,84,['l_0'],['100.00']
+r_831,cptfinch/machine_qc,[],0,0,"['l_0', 'l_14', 'l_2', 'l_25', 'l_3', 'l_1', 'l_86']","['80.38', '8.56', '8.51', '1.53', '0.88', '0.08', '0.06']"
+r_832,joshknowles/db-populate,[],20,18,['l_0'],['100.00']
+r_833,adamhjk/facter,[],2,1,['l_0'],['100.00']
+r_834,schacon/git-ruby,[],45,15,['l_0'],['100.00']
+r_835,fairchild/smartpilot,[],5,3,"['l_11', 'l_87', 'l_9']","['48.71', '42.94', '8.35']"
+r_836,gerard/mortal-coil,[],6,5,['l_6'],['100.00']
+r_837,yrashk/lilu,[],7,5,['l_0'],['100.00']
+r_838,khigia/ocaml-fuzlog,[],7,1,['l_77'],['100.00']
+r_839,rliebling/fake,[],3,0,['l_6'],['100.00']
+r_840,lak/puppetshow,[],4,6,"['l_1', 'l_0']","['67.32', '32.68']"
+r_841,gustin/comatose,[],3,1,"['l_0', 'l_1']","['88.04', '11.96']"
+r_842,oboxodo/acts_as_extensible,[],2,1,['l_0'],['100.00']
+r_843,bmizerany/thin,[],4,0,"['l_0', 'l_6', 'l_1']","['89.14', '10.80', '0.07']"
+r_844,jackdempsey/attachmerb_fu,[],19,8,['l_0'],['100.00']
+r_845,m3talsmith/barter,[],10,1,"['l_0', 'l_1']","['96.62', '3.38']"
+r_846,thepatrick/cheetahwatch,[],45,21,"['l_18', 'l_2']","['98.76', '1.24']"
+r_847,hallski/loudmouth-ruby,[],15,6,"['l_6', 'l_0']","['95.21', '4.79']"
+r_848,fabien/merb-manage,[],3,0,[],[]
+r_849,Judeqiu/testprj,[],3,0,[],[]
+r_850,mully/redmine_ticket_emailer,[],21,8,['l_0'],['100.00']
+r_851,fightinjoe/god,[],3,0,"['l_0', 'l_6', 'l_1']","['91.88', '4.63', '3.49']"
+r_852,paltman-archive/pycalais,[],10,2,['l_8'],['100.00']
+r_853,lukec/cpan-selenium-rc-perl,[],32,14,['l_10'],['100.00']
+r_854,jeremyevans/ruby-vorbis_comment,[],4,1,"['l_6', 'l_0']","['61.41', '38.59']"
+r_855,openminds/ruby-mollom,[],15,2,['l_0'],['100.00']
+r_856,sintaxi/merbums,[],3,2,['l_0'],['100.00']
+r_857,bumi/resizer,[],5,0,['l_1'],['100.00']
+r_858,teknofire/zunkfs,[],3,0,"['l_6', 'l_4']","['99.73', '0.27']"
+r_859,jnewland/gsa-feeds,[],7,5,"['l_0', 'l_1']","['63.77', '36.23']"
+r_860,methodmissing/cache_fu,[],3,0,['l_0'],['100.00']
+r_861,nex3/cheat,[],7,1,['l_0'],['100.00']
+r_862,drnic/drnic_js_test_helpers,[],13,3,"['l_1', 'l_0']","['74.60', '25.40']"
+r_863,thinkerbot/tap,[],20,0,"['l_0', 'l_1']","['99.29', '0.71']"
+r_864,reinh/gitviz,[],12,0,['l_0'],['100.00']
+r_865,labria/rails-ssl-authentication,[],15,3,"['l_0', 'l_1']","['99.66', '0.34']"
+r_866,guan/rails,[],1,0,"['l_0', 'l_1', 'l_4']","['99.99', '0.00', '0.00']"
+r_867,alx/delicious-bot,[],7,1,['l_0'],['100.00']
+r_868,keita/benchmarkx,[],5,1,['l_0'],['100.00']
+r_869,rtomayko/adoc-themes,[],23,7,['l_0'],['100.00']
+r_870,mvanholstyn/mhs_testing,[],9,0,['l_0'],['100.00']
+r_871,aaronkhawkins/sitdown,[],4,0,"['l_0', 'l_1']","['99.63', '0.37']"
+r_872,rmm5t/maxframe.el,"['emacs-lisp', 'emacs']",52,16,['l_12'],['100.00']
+r_873,TekNoLogic/GreedBeacon,[],6,3,['l_24'],['100.00']
+r_874,Jabbslad/experimental,[],3,1,['l_0'],['100.00']
+r_875,luciano-zz/ltm,[],3,0,[],[]
+r_876,mackstann/sqlite-constraint-msg,[],3,2,[],[]
+r_877,technoweenie/attachment_fu,[],1023,323,['l_0'],['100.00']
+r_878,spejman/meta-rails,[],5,3,['l_0'],['100.00']
+r_879,prepor/prepor-ru,[],1,2,"['l_3', 'l_1']","['85.35', '14.65']"
+r_880,jparker/template,[],4,3,"['l_0', 'l_1']","['99.24', '0.76']"
+r_881,zeke/firefox-history-analyzer,[],6,6,['l_0'],['100.00']
+r_882,tommorris/reddy,[],47,5,[],[]
+r_883,kylecordes/mathdrill,[],5,2,"['l_88', 'l_4']","['99.50', '0.50']"
+r_884,rpj/qwit,[],5,1,['l_10'],['100.00']
+r_885,snoack/music-renamer,[],5,3,['l_8'],['100.00']
+r_886,matthewtodd/wordpress,[],7,6,['l_0'],['100.00']
+r_887,pontus/imapfilter,[],3,3,"['l_8', 'l_4']","['94.61', '5.39']"
+r_888,codemac/blogit,[],3,0,"['l_8', 'l_6']","['97.84', '2.16']"
+r_889,tms005/cvs,[],2,0,[],[]
+r_890,purcell/db_console,[],3,0,['l_0'],['100.00']
+r_891,ericgoodwin/gitty-migrations,[],8,3,['l_0'],['100.00']
+r_892,ezmobius/nanite,[],737,70,['l_0'],['100.00']
+r_893,sr/git-wiki,[],529,237,['l_0'],['100.00']
+r_894,jcfischer/intldatefield,[],4,1,['l_0'],['100.00']
+r_895,timshadel/jboss-rules-presentation-may-2007,[],4,1,['l_13'],['100.00']
+r_896,mwalker/sinatra,[],2,0,['l_0'],['100.00']
+r_897,jmatt/urlnows,[],3,1,['l_37'],['100.00']
+r_898,xaviershay/sandbox,[],14,5,"['l_1', 'l_0', 'l_2', 'l_71', 'l_38', 'l_14', 'l_4']","['45.65', '41.00', '5.73', '5.14', '1.26', '0.90', '0.32']"
+r_899,halorgium/ruby-git,[],3,0,['l_0'],['100.00']
+r_900,lypanov/ruvi,[],5,2,['l_0'],['100.00']
+r_901,jeremyevans/sequel,[],4745,1077,"['l_0', 'l_2', 'l_14']","['98.47', '1.38', '0.15']"
+r_902,zackchandler/acts_as_quickbooks_model,[],26,5,['l_0'],['100.00']
+r_903,ianwhite/rspec-dev,[],3,0,"['l_0', 'l_1']","['99.39', '0.61']"
+r_904,avh4/time-tracker-for-mac,[],34,10,"['l_18', 'l_0', 'l_8']","['49.67', '42.28', '8.05']"
+r_905,osteele/javascript_fu,[],9,2,['l_0'],['100.00']
+r_906,frederik/movie_handler,[],3,1,['l_0'],['100.00']
+r_907,garth/commandpost,[],10,1,"['l_1', 'l_14']","['91.25', '8.75']"
+r_908,mbleigh/from_param,[],14,1,['l_0'],['100.00']
+r_909,zdennis/strac,[],6,1,"['l_0', 'l_1']","['97.85', '2.15']"
+r_910,matschaffer/mechaflickr,[],3,2,"['l_0', 'l_1']","['64.10', '35.90']"
+r_911,jamesgolick/attribute_fu,[],99,21,['l_0'],['100.00']
+r_912,zapnap/dialtone,[],8,1,['l_0'],['100.00']
+r_913,keibro/twikkir,[],4,0,"['l_1', 'l_13']","['89.29', '10.71']"
+r_914,dag/ruby-statgrab,[],12,0,"['l_6', 'l_0']","['99.80', '0.20']"
+r_915,eklitzke/oakland-crime-scraper,[],7,1,['l_8'],['100.00']
+r_916,abossenbroek/odesolvers,[],4,0,['l_6'],['100.00']
+r_917,davidjrice/mowawi,[],4,0,"['l_0', 'l_1']","['72.36', '27.64']"
+r_918,osteele/jcon,"['json', 'json-schema', 'ruby-gems']",4,0,['l_0'],['100.00']
+r_919,dtsato/dojosp,[],8,2,['l_49'],['100.00']
+r_920,auser/merb-plugins,[],3,1,['l_0'],['100.00']
+r_921,kevinansfield/viper,[],4,3,"['l_0', 'l_1']","['69.33', '30.67']"
+r_922,daikini/chunky_bacon,[],5,1,"['l_1', 'l_0']","['57.14', '42.86']"
+r_923,flogic/autochronic,[],15,5,['l_0'],['100.00']
+r_924,xraid/sequel,[],3,1,"['l_0', 'l_2', 'l_14']","['98.46', '1.38', '0.16']"
+r_925,seangeo/ratom,[],98,31,['l_0'],['100.00']
+r_926,andykent/jquery-humanize-messages-plugin,[],28,8,[],[]
+r_927,thoughtbot/jester,[],146,8,['l_1'],['100.00']
+r_928,geoffgarside/angel,[],9,0,"['l_0', 'l_1']","['63.41', '36.59']"
+r_929,lachie/roro-faces,[],11,3,"['l_0', 'l_1']","['71.58', '28.42']"
+r_930,jjune/chicago,[],3,1,"['l_0', 'l_1']","['67.86', '32.14']"
+r_931,mileszs/dotfiles,[],31,8,"['l_28', 'l_4', 'l_0', 'l_7']","['83.57', '14.05', '2.28', '0.09']"
+r_932,abbra/samba3-howto-russian,[],4,5,[],[]
+r_933,mattetti/merb-plugins,[],4,0,"['l_1', 'l_0', 'l_10']","['54.22', '45.73', '0.05']"
+r_934,mkultra-zz/mkultra,[],2,0,[],[]
+r_935,tslocke/hobocentral,[],9,4,[],[]
+r_936,eastmedia/acts_as_slugable,[],15,0,['l_0'],['100.00']
+r_937,uggedal/halcyon,[],2,0,"['l_13', 'l_0', 'l_3']","['96.67', '3.16', '0.16']"
+r_938,zh/tamanegi,[],10,0,['l_0'],['100.00']
+r_939,caius/php-faker,[],49,18,['l_3'],['100.00']
+r_940,robbyrussell/masochism,[],3,1,['l_0'],['100.00']
+r_941,wycats/osx-window-sizing,[],42,26,[],[]
+r_942,DotNetOpenAuth/DotNetOpenAuth,[],1716,745,"['l_25', 'l_1', 'l_2', 'l_14']","['97.90', '1.88', '0.15', '0.06']"
+r_943,joannou/nstableviewftw,[],5,1,['l_1'],['100.00']
+r_944,osteele/cl-spec,"['common-lisp', 'testing-tools', 'bdd-framework']",18,2,"['l_5', 'l_0']","['99.03', '0.97']"
+r_945,quake/cache_fu,[],3,0,['l_0'],['100.00']
+r_946,lamdor/programming-erlang,[],3,1,"['l_7', 'l_4']","['99.46', '0.54']"
+r_947,anildigital/getfake,[],3,3,"['l_0', 'l_1']","['96.67', '3.33']"
+r_948,piclez/pmpknpi,[],3,0,"['l_0', 'l_1']","['92.70', '7.30']"
+r_949,mikedamage/incremental-backup-system,[],6,1,"['l_0', 'l_1']","['99.58', '0.42']"
+r_950,jchris/portable-google-app-engine-sdk,[],23,4,"['l_8', 'l_6', 'l_1', 'l_4']","['86.64', '11.32', '2.03', '0.01']"
+r_951,jmettraux/rufus-mnemo,[],78,2,['l_0'],['100.00']
+r_952,mikedamage/folio,[],7,0,"['l_1', 'l_0']","['80.28', '19.72']"
+r_953,mreid/feed-bag,[],9,5,"['l_0', 'l_4']","['94.88', '5.12']"
+r_954,noelrappin/rails-iui,[],141,22,['l_0'],['100.00']
+r_955,justinweiss/weisscast,[],4,1,"['l_0', 'l_1']","['99.27', '0.73']"
+r_956,jcfischer/referenz2,[],13,4,"['l_1', 'l_0']","['77.80', '22.20']"
+r_957,drodriguez/gitnub,[],3,0,"['l_0', 'l_18']","['97.54', '2.46']"
+r_958,funkatron/lyrics,[],3,0,"['l_8', 'l_1']","['89.47', '10.53']"
+r_959,daikini/paysimple,[],7,3,['l_0'],['100.00']
+r_960,planetbeing/forcedeth-osx,[],9,0,['l_9'],['100.00']
+r_961,codahale/hadoop-streaming,[],8,2,['l_8'],['100.00']
+r_962,timparkin/into-the-light,[],2,1,"['l_1', 'l_8', 'l_4']","['79.35', '20.60', '0.05']"
+r_963,code-lts/jquery-uitablefilter,"['jquery', 'jquery-plugin', 'table-filter']",58,21,"['l_1', 'l_2']","['81.05', '18.95']"
+r_964,nutrun/queueue,[],7,0,['l_0'],['100.00']
+r_965,tore/trafficsim,[],2,0,['l_8'],['100.00']
+r_966,halfbyte/reactivision_test,[],3,1,['l_0'],['100.00']
+r_967,evocateur/wp-facebox,[],4,0,"['l_1', 'l_3']","['67.46', '32.54']"
+r_968,benschwarz/muxtape-rb,[],9,1,['l_0'],['100.00']
+r_969,TomK32/feedme,[],4,2,"['l_0', 'l_1']","['98.47', '1.53']"
+r_970,Fil/facebox,[],2,0,"['l_1', 'l_4']","['96.72', '3.28']"
+r_971,purcell/airspeed,[],84,34,['l_8'],['100.00']
+r_972,davidsmalley/extensionless_format,[],10,5,['l_0'],['100.00']
+r_973,subtleGradient/css.tmbundle,[],15,1,[],[]
+r_974,jmathai/jaisenmathai,[],6,2,[],[]
+r_975,martinbtt/rspec,[],3,0,"['l_0', 'l_1']","['99.97', '0.03']"
+r_976,Grayson/nusmartypants,[],5,2,"['l_36', 'l_18']","['89.97', '10.03']"
+r_977,brosner/oebfare,[],46,7,"['l_1', 'l_8', 'l_4']","['63.20', '36.28', '0.52']"
+r_978,paulnicholson/eassl,[],2,0,[],[]
+r_979,lorenjohnson/facebook-multiselect,[],19,4,['l_1'],['100.00']
+r_980,joshu/mars,[],3,0,"['l_0', 'l_1']","['88.87', '11.13']"
+r_981,technoweenie/restful-authentication,[],1574,279,['l_0'],['100.00']
+r_982,benschwarz/bom-weather,[],23,4,['l_0'],['100.00']
+r_983,JackDanger/jackcanty.com-in-scheme,[],3,0,"['l_26', 'l_1']","['59.94', '40.06']"
+r_984,wayneeseguin/attachmerb_fu,[],4,1,['l_0'],['100.00']
+r_985,jdp/tarn,[],17,3,"['l_24', 'l_6']","['53.33', '46.67']"
+r_986,schacon/grit,[],162,73,['l_0'],['100.00']
+r_987,jamiew/filemark-maker,[],4,2,['l_10'],['100.00']
+r_988,juanger/scielo-dev,[],3,2,"['l_0', 'l_25', 'l_1', 'l_4']","['57.27', '37.84', '4.45', '0.45']"
+r_989,gravityblast/radiant-newsletter,[],28,4,['l_0'],['100.00']
+r_990,dustin/photosync,[],4,0,['l_18'],['100.00']
+r_991,mbleigh/github-unfuddle,[],15,3,['l_0'],['100.00']
+r_992,nathansobo/treetop,[],1014,114,"['l_0', 'l_41']","['99.88', '0.12']"
+r_993,royzhu/kuplayer,[],2,0,[],[]
+r_994,caged/javascript-bits,[],34,6,"['l_1', 'l_0']","['97.60', '2.40']"
+r_995,imownbey/jim,[],15,5,['l_80'],['100.00']
+r_996,DrMark/brain_buster,[],2,0,['l_0'],['100.00']
+r_997,timconstan/vtcalendar,[],2,1,"['l_3', 'l_1']","['71.82', '28.18']"
+r_998,mbleigh/hooktastic,[],5,0,['l_0'],['100.00']
+r_999,nutrun/synthesis,[],27,3,['l_0'],['100.00']
+r_1000,dblake/supertest,[],2,0,[],[]
+r_1001,horndude77/open-scores,[],58,13,['l_89'],['100.00']
+r_1002,biochimia/viscose,[],3,0,[],[]
+r_1003,jaikoo/rvideo,[],14,6,"['l_0', 'l_1']","['94.17', '5.83']"
+r_1004,patmaddox/no-peeping-toms,[],136,39,['l_0'],['100.00']
+r_1005,pointcom/mootools-on-rails,[],50,7,['l_0'],['100.00']
+r_1006,ebb/pufn,[],3,0,['l_6'],['100.00']
+r_1007,rpheath/navigation_helper,[],102,19,['l_0'],['100.00']
+r_1008,Manfred/reckon,[],3,1,['l_0'],['100.00']
+r_1009,jezdez/django-reusableapps,[],14,1,['l_8'],['100.00']
+r_1010,purcell/dotr,[],3,0,['l_0'],['100.00']
+r_1011,ambethia/hydra,[],3,0,[],[]
+r_1012,ascarter/capistrano,[],4,0,['l_0'],['100.00']
+r_1013,mattbeedle/davinci,[],2,0,"['l_0', 'l_1', 'l_14']","['71.19', '21.35', '7.46']"
+r_1014,asosa/dot_files,[],3,0,"['l_28', 'l_4']","['96.76', '3.24']"
+r_1015,mattb/identity-matcher,[],68,3,['l_0'],['100.00']
+r_1016,dansimpson61/shoes,[],3,1,"['l_0', 'l_6', 'l_4']","['61.10', '35.90', '3.01']"
+r_1017,rubaidh/form_builders,[],4,2,['l_0'],['100.00']
+r_1018,lilyball/gitnub,[],3,1,"['l_0', 'l_18']","['96.63', '3.37']"
+r_1019,openminds/site_language,[],9,3,['l_0'],['100.00']
+r_1020,olivM/hydrate,[],4,1,[],[]
+r_1021,turbana/dor,[],3,0,"['l_6', 'l_30', 'l_11', 'l_9', 'l_4', 'l_18']","['81.69', '10.30', '4.61', '2.58', '0.50', '0.32']"
+r_1022,mikepea/github-test,[],2,0,[],[]
+r_1023,Soleone/rails-tips,[],4,0,"['l_0', 'l_1']","['99.31', '0.69']"
+r_1024,ctrochalakis/django-markuputils,[],9,2,['l_8'],['100.00']
+r_1025,jmettraux/rufus-lru,[],11,5,"['l_0', 'l_11']","['95.52', '4.48']"
+r_1026,leewbutler/xdressed_clickables,[],5,1,[],[]
+r_1027,teg/atomic-flows-ii,[],3,2,['l_49'],['100.00']
+r_1028,dennisreimann/masquerade,[],220,45,"['l_0', 'l_1']","['96.10', '3.90']"
+r_1029,kig/wreader,[],6,2,['l_0'],['100.00']
+r_1030,jeremyf/rdoc_test,[],3,0,['l_0'],['100.00']
+r_1031,xman/reversi,[],4,1,"['l_13', 'l_9']","['69.18', '30.82']"
+r_1032,rbriski/python-adwords-api,[],6,6,['l_8'],['100.00']
+r_1033,darius/hmph,[],7,1,['l_8'],['100.00']
+r_1034,dalmaer/ytranscript,[],3,1,['l_1'],['100.00']
+r_1035,jwarchol/arfbot,[],5,2,['l_0'],['100.00']
+r_1036,mmower/bishop,[],24,7,['l_0'],['100.00']
+r_1037,collectiveidea/awesome_nested_set,[],2333,488,['l_0'],['100.00']
+r_1038,hookercookerman/merb-core,[],4,0,"['l_0', 'l_1']","['98.47', '1.53']"
+r_1039,obeattie/oliver-beattie--version-5,[],3,0,"['l_8', 'l_1']","['94.22', '5.78']"
+r_1040,defunkt/sake,[],77,14,['l_0'],['100.00']
+r_1041,baldwindavid/dnb_public_shell,[],3,0,['l_0'],['100.00']
+r_1042,nonuts/gosutaxi,[],3,0,['l_0'],['100.00']
+r_1043,zpao/blarg,[],2,2,"['l_0', 'l_1']","['93.80', '6.20']"
+r_1044,eLmatador/revolting-sun,[],2,1,"['l_0', 'l_1']","['99.70', '0.30']"
+r_1045,ciriarte/nwd,[],5,0,"['l_25', 'l_53']","['96.65', '3.35']"
+r_1046,tomtt/tomtt_emacslisp,[],5,1,"['l_12', 'l_9', 'l_8', 'l_0', 'l_6', 'l_4']","['99.65', '0.12', '0.11', '0.08', '0.03', '0.01']"
+r_1047,levinalex/tfh_rts1,[],3,0,['l_6'],['100.00']
+r_1048,topfunky/google-checkout,[],61,25,['l_0'],['100.00']
+r_1049,dpc/dack,[],2,0,"['l_57', 'l_11']","['94.39', '5.61']"
+r_1050,alexeypegov/b3v,"['javascript', 'python', 'google-appengine']",6,3,"['l_1', 'l_8']","['59.11', '40.89']"
+r_1051,osteele/ropenlaszlo,"['ruby-gem', 'open-laszlo']",2,2,"['l_0', 'l_2']","['87.65', '12.35']"
+r_1052,mdk/flickroff,[],3,0,"['l_90', 'l_11']","['98.45', '1.55']"
+r_1053,norbauer/sprocket_express,[],7,1,['l_0'],['100.00']
+r_1054,madrobby/scripty2,[],514,56,"['l_1', 'l_14', 'l_0']","['70.94', '25.06', '3.99']"
+r_1055,michaelbarton/organised_experiments,[],14,3,['l_0'],['100.00']
+r_1056,rmm5t/insert-time.el,[],11,6,['l_12'],['100.00']
+r_1057,smtlaissezfaire/git-rev-num,[],4,1,['l_0'],['100.00']
+r_1058,mvanholstyn/mhs_deployment,[],5,0,['l_0'],['100.00']
+r_1059,jmac/seamonster,[],3,2,"['l_1', 'l_3']","['90.39', '9.61']"
+r_1060,scharfie/gnat,[],5,3,"['l_0', 'l_1']","['68.27', '31.73']"
+r_1061,captproton/rails,[],2,0,"['l_0', 'l_1', 'l_4']","['99.99', '0.00', '0.00']"
+r_1062,ymendel/graphtunes,[],2,0,['l_0'],['100.00']
+r_1063,jqr/has_one_autocreate,[],15,5,['l_0'],['100.00']
+r_1064,rotty/dotfiles,[],6,0,"['l_12', 'l_0', 'l_24', 'l_26', 'l_38', 'l_4']","['83.47', '11.57', '3.86', '0.59', '0.48', '0.04']"
+r_1065,brauteseth/myfirstapple,[],3,0,[],[]
+r_1066,ralsina/russian-gallery,[],6,2,['l_8'],['100.00']
+r_1067,vanpelt/merb_paginate,[],6,11,['l_0'],['100.00']
+r_1068,bricooke/mkmt-more,[],2,0,[],[]
+r_1069,voodootikigod/quickticket,[],5,5,"['l_0', 'l_1']","['89.14', '10.86']"
+r_1070,galaxycats/nostromo,[],2,1,"['l_0', 'l_13', 'l_4', 'l_6']","['48.91', '34.86', '12.81', '3.41']"
+r_1071,al3x/metatweet,[],8,3,['l_0'],['100.00']
+r_1072,nickpad/timedcache,[],6,3,['l_0'],['100.00']
+r_1073,thoughtbot/paperclip,[],9063,2429,"['l_0', 'l_82', 'l_2']","['98.36', '1.57', '0.08']"
+r_1074,adelcambre/masochism,[],3,0,['l_0'],['100.00']
+r_1075,we4tech/mojar_workflow,[],3,2,['l_0'],['100.00']
+r_1076,evocateur/race,[],3,1,"['l_3', 'l_1']","['85.61', '14.39']"
+r_1077,preservim/nerdtree,"['vim', 'vim-plugin', 'vim-plugins', 'file-management', 'file-manager']",18291,1419,['l_28'],['100.00']
+r_1078,larrytheliquid/will_paginate,[],10,2,['l_0'],['100.00']
+r_1079,halorgium/github-gem,[],3,1,['l_0'],['100.00']
+r_1080,signup-disabled/free,[],3,0,[],[]
+r_1081,vidriloco/gideon,[],2,0,"['l_0', 'l_1']","['99.87', '0.13']"
+r_1082,haraldmartin/scriptaculous,[],3,0,"['l_1', 'l_0']","['91.02', '8.98']"
+r_1083,adamstac/jquery-qt-controller,[],20,5,['l_1'],['100.00']
+r_1084,thoughtbot/shoulda,[],2161,198,"['l_0', 'l_4']","['95.91', '4.09']"
+r_1085,youpy/newextension,[],6,1,"['l_0', 'l_1']","['99.79', '0.21']"
+r_1086,minimagick/minimagick,[],2762,351,"['l_0', 'l_4']","['99.60', '0.40']"
+r_1087,dsutedja/mack-orm,[],2,0,['l_0'],['100.00']
+r_1089,joshfrench/rakismet,[],354,46,['l_0'],['100.00']
+r_1090,eggie5/asset_packager,[],3,1,"['l_0', 'l_1']","['99.16', '0.84']"
+r_1091,dustin/loginit,[],4,1,['l_8'],['100.00']
+r_1092,Soleone/etqw-stats,[],3,1,"['l_0', 'l_1']","['67.27', '32.73']"
+r_1093,prawnpdf/prawn,"['ruby', 'pdf-generator', 'prawn', 'pdf']",4428,673,"['l_0', 'l_2']","['99.87', '0.13']"
+r_1094,yrashk/strokedb,[],86,10,['l_0'],['100.00']
+r_1095,pontus/smugmug-tools,[],3,0,['l_8'],['100.00']
+r_1096,technoweenie/masochism,[],248,45,['l_0'],['100.00']
+r_1097,cpjolicoeur/timeframe,[],3,0,['l_1'],['100.00']
+r_1098,laurio/dot-emacs,[],2,2,['l_12'],['100.00']
+r_1099,AArnott/atom2blogger,[],2,1,['l_25'],['100.00']
+r_1100,shingara/cap-project,[],3,1,"['l_0', 'l_1']","['99.64', '0.36']"
+r_1101,jchris/couchrest,[],402,82,[],[]
+r_1102,cptfinch/clinical-trials,[],1,0,"['l_0', 'l_2', 'l_14', 'l_1']","['74.61', '22.65', '2.42', '0.31']"
+r_1103,dustin/py-backpack,[],7,4,['l_8'],['100.00']
+r_1104,davemerwin/codereviewr,[],3,7,"['l_8', 'l_1']","['88.19', '11.81']"
+r_1105,danielmorrison/relative_time_helpers,[],3,1,['l_0'],['100.00']
+r_1106,TwP/bones,[],120,21,"['l_0', 'l_4']","['99.47', '0.53']"
+r_1107,Ramarren/lisa,[],15,2,['l_5'],['100.00']
+r_1108,nex3/nex3-s-blog-engine,[],14,3,"['l_0', 'l_1']","['96.21', '3.79']"
+r_1109,hans/twitkit,[],7,0,['l_1'],['100.00']
+r_1110,dfugere/flat_lady,[],1,0,['l_0'],['100.00']
+r_1111,mvanholstyn/mhs_authentication_system,[],8,2,['l_0'],['100.00']
+r_1112,github/media,[],293,68,[],[]
+r_1113,hebrewhammer/sparrow,[],2,1,[],[]
+r_1114,sstephenson/sprockets,[],2575,29,[],[]
+r_1115,myles-archive/django-basic-social,[],3,1,['l_8'],['100.00']
+r_1116,TekNoLogic/Cork,[],23,32,['l_24'],['100.00']
+r_1117,deweerdt/netfilter-hook,[],11,3,['l_6'],['100.00']
+r_1118,nel/deliver_to_me,[],6,0,['l_0'],['100.00']
+r_1119,jomz/radiant-site_language-extension,[],5,0,['l_0'],['100.00']
+r_1120,yolk/miter,[],3,0,"['l_0', 'l_1']","['61.51', '38.49']"
+r_1121,drnic/merb-tmbundle,[],37,6,['l_0'],['100.00']
+r_1122,tristan/twimage,[],5,0,['l_8'],['100.00']
+r_1123,kuro/gas,[],3,1,"['l_9', 'l_6', 'l_13', 'l_0']","['50.52', '38.00', '7.78', '3.70']"
+r_1124,mmower/simply_versioned,[],40,8,['l_0'],['100.00']
+r_1125,ryanb/exception_logger,[],21,3,"['l_0', 'l_1']","['85.96', '14.04']"
+r_1127,potatosalad/auto_migrations,[],2,1,['l_0'],['100.00']
+r_1128,scivi/dotfiles,['dotfiles'],6,2,"['l_4', 'l_12', 'l_0', 'l_28']","['58.37', '34.61', '3.64', '3.39']"
+r_1129,wayneeseguin/vanhelsing,[],3,0,"['l_0', 'l_6']","['95.23', '4.77']"
+r_1130,thoughthill/ruberion_server_tools,[],7,0,['l_0'],['100.00']
+r_1131,myabc/merb_mart,[],26,3,"['l_0', 'l_1']","['100.00', '0.00']"
+r_1132,mghaught/yui4rails,[],28,1,"['l_1', 'l_0']","['99.59', '0.41']"
+r_1133,youpy/directory-index-finder,[],2,0,['l_1'],['100.00']
+r_1134,simonpk/fireeagle-updater-midlet,[],13,3,['l_13'],['100.00']
+r_1135,shingara/whotowho,[],4,2,"['l_0', 'l_1']","['66.36', '33.64']"
+r_1136,pjay/tv-iapps,[],4,0,"['l_0', 'l_1']","['76.04', '23.96']"
+r_1137,wycats/merb-more,[],184,35,[],[]
+r_1138,larssg/gae-score-keeper,[],2,1,"['l_8', 'l_1']","['95.15', '4.85']"
